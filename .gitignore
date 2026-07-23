@@ -1,0 +1,19 @@
+# Basura del SO
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporales
+*.tmp
+*.bak
+~$*
+
+# Nada de secretos en el repo (por las dudas)
+*.env
+.env
+credentials*.json
+service-account*.json
+*token*.txt
+
+# Datos sensibles de terceros — NUNCA sincronizar
+_PRIVADO-LOCAL/
