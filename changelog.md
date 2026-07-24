@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-24 — 🎉 HITO: 3 creativos de video generados (bloqueante destrabado)
+- Los **3 creativos de Despertate Bien generados en Veo 3** (Google Flow): c1 sueño (cama→reloj→café), c2 energía (agua→comida→amanecer), c3 café (café→escritorio→estiramiento). Todos 10s, 9:16, **sin texto alucinado y sin caras** — resuelto el problema de Higgsfield que frenaba las ventas hace semanas.
+- Guardados en `H:\CREATIVOS DESPERTATE\1-crudos-veo\`. Prompts pulidos (v2) en el plan de lanzamiento.
+- Falta: montar overlays en CapCut → armar campaña de test en Meta → lanzar.
+- Nota de tooling: instalado `imageio`/`imageio-ffmpeg` para revisar los videos frame por frame.
+
 ## 2026-07-24 — Research creativos IA + norte de $100k + parking-lot
 - **Research procesado** (`recursos-creativos-ia.md`, tema 22): shortlist para el cuello de botella de creativos → video on-target de Leonardo Arias (`30ILN6S13LQ`, Veo 3, sin cara), imágenes con Nano Banana + Cosmos AI, y apps de pago (100 Ads de Claudio Conde, AI Builders). Recomendación: probar lo gratis antes de comprar.
 - **Objetivo macro grabado** en `perfil-mariano.md`: **USD 100.000/mes residuales + ayudar a otros**.

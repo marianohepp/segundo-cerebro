@@ -11,7 +11,7 @@ _Última actualización: 2026-07-23_
 ## 🔴 Bloqueantes activos (frenan resultado hoy)
 | Proyecto | Bloqueante | Estado / salida |
 |---|---|---|
-| [[despertate-bien]] | Meta Ads pausados, **ventas $0** por creativos video-IA con texto alucinado (Higgsfield) | 🔨 EN CURSO 24/07: plan de lanzamiento con 3 creativos Veo 3 (sin texto) listo → ver `OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md`. **Prioridad #1.** |
+| [[despertate-bien]] | Meta Ads pausados, **ventas $0** por creativos video-IA con texto alucinado (Higgsfield) | ✅ 24/07 DESTRABADO: **3 creativos generados en Veo 3** (sin texto, sin caras) en `H:\CREATIVOS DESPERTATE\1-crudos-veo`. Falta: montar overlays en CapCut → armar campaña Meta → lanzar. Ver `OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md`. **Prioridad #1.** |
 | [[nueva-frecuencia]] · [[planeta-limpio-corsair]] | Mismo problema Higgsfield ([[conexiones]] #1) | Se destraban con la misma solución del ebook |
 | [[torque]] | **Pendiente sin resolver con Lucas** (estructura fiscal / CUIT) | Sin resolver — riesgo estructural |
 
