@@ -42,18 +42,18 @@ _(Si Veo limita la duración, generá 2-3 clips cortos con esas escenas y los un
 ---
 
 ## 🎬 CREATIVO 2 — Sueño + intestino (REM/microbioma) × "¿Te imaginás?" con plazo
-**Hook (0-3s):** "¿Te imaginás despertarte con energía en 7 días, sin café ni suplementos caros?"
+**Hook (0-3s):** "¿Te imaginás despertarte con energía en 7 días?"
 
-**Prompt Veo 3 (visual, sin texto, sin cara):**
-> Cinematic macro shots: a glass of water with morning light, fresh natural food on a wooden table, a person's hands stretching in bed (no face), sunrise through a window, calm and warm tones. Realistic, shallow depth of field. No text. 9:16 vertical.
+**Prompt Veo 3 (v2 pulida — pegar tal cual):**
+> Vertical 9:16 cinematic footage. A glass of water on a wooden windowsill, warm morning sunlight refracting through it, soft light rays. Slow smooth push-in. Cut to a macro shot of fresh colorful natural food on a wooden table — sliced fruit, leafy greens, water droplets, vibrant and fresh. Cut to hands gently opening white curtains to a bright sunrise, warm golden light flooding into the room (no face visible). Cut to a wide calm shot of a sunrise over a peaceful landscape. Bright, fresh, hopeful atmosphere, warm golden tones, shallow depth of field, soft film grain, realistic and cinematic. No people's faces visible, no on-screen text, no logos, no watermarks, no readable text anywhere.
 
-**Overlay en CapCut (español):**
-1. "¿Te imaginás despertarte con energía…" (0-3s)
-2. "…en solo 7 días?" (3-5s)
-3. "Sin café. Sin suplementos caros." (5-9s)
-4. "La clave está en tu intestino." (9-13s)
-5. "Sí, tu energía empieza ahí." (13-16s)
-6. "Te muestro cómo 👇" (16-20s)
+**Overlay en CapCut (español, re-timeado a 10s):**
+1. "¿Te imaginás despertarte con energía…" (0–2.5s)
+2. "…en solo 7 días?" (2.5–4s)
+3. "Sin café. Sin suplementos caros." (4–6s)
+4. "La clave está en tu intestino." (6–8s)
+5. "Sí, tu energía empieza ahí." (8–9.5s)
+6. "Te muestro cómo 👇" (9.5–10s)
 
 **Copy del anuncio:**
 - **Primary text:** Tu energía de la mañana empieza en tu intestino, no en la cafetera. En 7 días podés cambiar cómo te despertás. Te explico el paso a paso en "Despertate con Energía" 👇
