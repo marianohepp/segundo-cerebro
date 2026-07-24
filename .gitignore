@@ -15,5 +15,7 @@ credentials*.json
 service-account*.json
 *token*.txt
 
-# Datos sensibles de terceros — NUNCA sincronizar
+# Datos sensibles de terceros — viven en H:\CEREBRO-PRIVADO-LOCAL\ (fuera de esta carpeta).
+# Se deja este patrón por si alguna vez se crea una carpeta privada acá dentro por error.
 _PRIVADO-LOCAL/
+CEREBRO-PRIVADO-LOCAL/

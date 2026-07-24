@@ -35,7 +35,7 @@ Mariano, emprendedor en Crespo (Entre Ríos, AR), 25+ años en repuestos. Corre 
 
 ### Problemas recurrentes (transversales)
 1. **Calidad de contenido con IA** (Higgsfield alucina texto) → frena Despertate Bien, Nueva Frecuencia y Planeta Limpio a la vez.
-2. **Fricción fiscal argentina** → CUIT de Lucas en Torque, tema fiscal de un downline (detalle en `_PRIVADO-LOCAL/`), contabilidad digital pendiente.
+2. **Fricción fiscal argentina** → CUIT de Lucas en Torque, tema fiscal de un downline (detalle en carpeta privada local `H:\CEREBRO-PRIVADO-LOCAL\`, fuera de la nube), contabilidad digital pendiente.
 3. **Reinvención de la rueda** → cada proyecto rearma su propia calculadora/PWA.
 
 ### Cómo responderle

@@ -6,7 +6,7 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ## 2026-07-23 — Dashboard + sincronización multi-dispositivo
 - **Nuevo tema `estado-actual.md`** (dashboard único de bloqueantes/decisiones/fechas), enlazado desde `index.md`.
-- **Privacidad:** datos sensibles de terceros (tema fiscal de un downline) movidos a `_PRIVADO-LOCAL/terceros-sensible.md` (gitignored, no sincronizado). Redactadas todas las menciones en archivos que se suben.
+- **Privacidad:** datos sensibles de terceros (tema fiscal de un downline) movidos a `H:\CEREBRO-PRIVADO-LOCAL\` — carpeta **fuera** de SEGUNDO CEREBRO, invisible para Drive y GitHub. Redactadas todas las menciones en archivos que se suben.
 - **Repo git local inicializado** + `.gitignore`. Commit inicial `e26ab4d` (sin datos sensibles en el árbol).
 - **Setup híbrido de sync** documentado en `SINCRONIZACION.md`: Google Drive (captura desde el celular) + GitHub privado (backup versionado). Helper `backup-github.bat`.
 - Pendiente del usuario: (1) reflejar la carpeta en Drive, (2) crear el repo privado en GitHub y pasarme la URL para conectar y hacer el primer push.

@@ -24,7 +24,7 @@ _Última actualización: 2026-07-23_
 - **[[fuxion-proa]]:** conversación directa con **Rosa y Adri** (foco declarado). Beta cerrada del CRM con ellas.
 - **[[torque]]:** cerrar al **mecánico que se independiza** (cliente clave). Resolver lo de Lucas.
 - **[[despertate-bien]]:** terminar generador de guiones → reactivar 1 campaña Meta con los 3 patrones AR.
-- **Red (ver [[gente]]):** Juan Luis Reyna pidió ayuda con un tema fiscal personal (detalle en `_PRIVADO-LOCAL/`, no sincronizado).
+- **Red (ver [[gente]]):** Juan Luis Reyna pidió ayuda con un tema fiscal personal (detalle en carpeta privada local `H:\CEREBRO-PRIVADO-LOCAL\`, fuera de la nube).
 
 ## 🟢 En pausa / despriorizado (no gastar energía ahora)
 - [[planeta-limpio-corsair]] · ebook de supervivencia y negocio de madera ([[otros-proyectos]]).

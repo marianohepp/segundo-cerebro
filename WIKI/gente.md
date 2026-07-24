@@ -12,7 +12,7 @@ _Última actualización: 2026-07-23_
 - **Noé** y **Betiana** — equipo local core en Crespo.
 - **Ivana** (@ivana.saludenmovimiento) — marca personal que Mariano ayudó a desarrollar.
 - **Jacqueline Salazar** — línea 2.
-- **Juan Luis Reyna** — línea 3, corre ads pagos, ~100 cajas/mes. Tiene un tema fiscal personal pendiente en el que pidió ayuda → detalle en `_PRIVADO-LOCAL/terceros-sensible.md` (no sincronizado).
+- **Juan Luis Reyna** — línea 3, corre ads pagos, ~100 cajas/mes. Tiene un tema fiscal personal pendiente en el que pidió ayuda → detalle en carpeta privada local `H:\CEREBRO-PRIVADO-LOCAL\` (fuera de la nube).
 - **Ana Paula Dopazo** — línea 4.
 - **Belén Vessoni** — volumen fuerte, poca ambición de liderazgo.
 - **Claudia** — sprint de calificación a Panamá armado para ella.

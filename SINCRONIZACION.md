@@ -68,6 +68,7 @@ O corré el helper: **`backup-github.bat`** (hace add + commit con fecha + push 
 ---
 
 ## 🔒 Qué NO se sincroniza
-- Toda la carpeta **`_PRIVADO-LOCAL/`** — datos sensibles de terceros. Vive solo en esta PC (está en `.gitignore` y **no** la subas a Drive: si reflejás toda la carpeta, excluí esa subcarpeta o guardala fuera).
+- Los **datos sensibles de terceros** viven en **`H:\CEREBRO-PRIVADO-LOCAL\`** — una carpeta **fuera** de `SEGUNDO CEREBRO`, así que ni Drive ni GitHub la ven nunca. Vive solo en esta PC.
+- En la wiki, esos datos están reemplazados por un puntero neutro que remite a esa carpeta local.
 
-> ⚠️ **Importante con Drive:** el reflejo de Drive **no respeta `.gitignore`**. Si reflejás toda `SEGUNDO CEREBRO`, `_PRIVADO-LOCAL/` también subiría a Drive. Para evitarlo: o guardás `_PRIVADO-LOCAL/` en otra carpeta fuera del reflejo, o reflejás solo las subcarpetas `RAW/`, `WIKI/`, `OUTPUTS/`. Decime y lo dejo armado como prefieras.
+> ✅ Resuelto: como el archivo privado está fuera de la carpeta reflejada, no importa que el reflejo de Drive no respete `.gitignore`. Si más adelante querés guardar más datos sensibles de terceros, ponelos en `H:\CEREBRO-PRIVADO-LOCAL\`, nunca dentro de `SEGUNDO CEREBRO`.

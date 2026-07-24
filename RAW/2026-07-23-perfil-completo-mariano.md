@@ -155,7 +155,7 @@
 - Rosa y Adri (Adriana Streck) — líneas más fuertes de duplicación, prioridad de conversación directa, en la beta cerrada del CRM. Rosa Wendler DV4: 2.504 de volumen.
 - Noé y Betiana — equipo local core en Crespo.
 - Ivana (@ivana.saludenmovimiento) — marca personal que Mariano ayudó a desarrollar.
-- Jacqueline Salazar (línea 2), Juan Luis Reyna (línea 3, ads pagos, ~100 cajas/mes; tiene un tema fiscal personal pendiente → detalle en `_PRIVADO-LOCAL/terceros-sensible.md`), Ana Paula Dopazo (línea 4), Belén Vessoni (volumen fuerte, poco liderazgo).
+- Jacqueline Salazar (línea 2), Juan Luis Reyna (línea 3, ads pagos, ~100 cajas/mes; tiene un tema fiscal personal pendiente → detalle en carpeta privada local `H:\CEREBRO-PRIVADO-LOCAL\` (fuera de la nube)), Ana Paula Dopazo (línea 4), Belén Vessoni (volumen fuerte, poco liderazgo).
 - Claudia — sprint de calificación a Panamá armado para ella.
 - Marlene — co-moderó una capacitación de Cash Flow Quadrant con Mariano.
 - Viviana — terapeuta de sanación escalar, primera invitada de Nueva Frecuencia (EP05).

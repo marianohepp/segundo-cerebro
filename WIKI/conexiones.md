@@ -17,7 +17,7 @@ Los upsells de [[despertate-bien]] (Prunex1, Floraliv, Vita XT) **son productos 
 → Comprador del ebook → cliente Fuxion → prospecto PROA es **una sola audiencia continua**, corrida hoy como marcas separadas (@emprendersaludable, @energiasostenida, despertatebien, Nueva Frecuencia). El ebook barato es en los hechos el **lead magnet de front-end** del ingreso residual de Fuxion, lo hayas diseñado así o no.
 
 ## 4. La fricción fiscal argentina se repite en negocios que no tienen nada que ver
-[[torque]] existe con la estructura que tiene (vender bajo el CUIT de Lucas) por un tema **fiscal/de registración**. En paralelo, un integrante de tu downline está trabado con un tema fiscal personal ante AFIP/ARCA (ver [[gente]]; detalle en `_PRIVADO-LOCAL/`). Y el perfil menciona que estás investigando herramientas de contabilidad digital y cumplimiento fiscal.
+[[torque]] existe con la estructura que tiene (vender bajo el CUIT de Lucas) por un tema **fiscal/de registración**. En paralelo, un integrante de tu downline está trabado con un tema fiscal personal ante AFIP/ARCA (ver [[gente]]; detalle en carpeta privada local, fuera de la nube). Y el perfil menciona que estás investigando herramientas de contabilidad digital y cumplimiento fiscal.
 → El mismo dolor —compliance fiscal para micro-emprendedores argentinos— aparece en Torque, en tu red Fuxion y en tu propia gestión. Resolverlo una vez tiene apalancamiento cruzado (incluso podría ser producto).
 
 ## 5. Tenés una "fábrica de calculadoras HTML/PWA" sin nombrarla
