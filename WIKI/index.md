@@ -9,7 +9,6 @@ _Última actualización: 2026-07-23_
 - [[marco-ejecucion]] — el sistema operativo mental (2 pilares + pregunta filtro) que aplica a todo
 - [[gente]] — mapa de personas: familia, red PROA, socios y amigos
 - [[conexiones]] — patrones ocultos que cruzan varios proyectos (lo que un índice plano no ve)
-- [[parking-lot]] — ideas capturadas pero NO activas (para soltar sin desenfocarse)
 - [[estado-actual]] — 🚦 dashboard único: bloqueantes, decisiones abiertas, fechas y pendientes
 
 ## 💼 Negocios físicos
@@ -44,3 +43,4 @@ _Última actualización: 2026-07-23_
 - [Deck capacitación Alumbra](../OUTPUTS/2026-07-24-deck-capacitacion-alumbra.md) — 2026-07-24 · guion de 10 slides para el miércoles ([[evento-alumbra]])
 - [Patrones de las capacitaciones PROA](../OUTPUTS/patron-capacitaciones-proa-2026-07-24.md) — 2026-07-24 · análisis de 11 sesiones: tipos de espacio, frases-marca, moldes reutilizables
 - [Alumbra — texto para Canva](../OUTPUTS/2026-07-24-alumbra-canva-copypaste.md) — 2026-07-24 · 10 slides en formato copy-paste para armar en Canva
+- [Plan de lanzamiento creativos Despertate](../OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md) — 2026-07-24 · 3 creativos Veo 3 + copy + estructura de campaña de test
