@@ -63,18 +63,18 @@ _(Si Veo limita la duración, generá 2-3 clips cortos con esas escenas y los un
 ---
 
 ## 🎬 CREATIVO 3 — Productividad/energía × Contradicción-revelación
-**Hook (0-3s):** "El café te está robando la energía que creés que te da."
+**Hook (0-3s):** "El café no te da energía. Te la presta."
 
-**Prompt Veo 3 (visual, sin texto, sin cara):**
-> Cinematic shot of a coffee cup, then the same person (no face) looking tired at a desk in the afternoon, then contrast with vibrant morning energy: open window, movement, light. Dynamic, realistic, cinematic. No text. 9:16 vertical.
+**Prompt Veo 3 (v2 pulida — pegar tal cual):**
+> Vertical 9:16 cinematic footage. A close-up of dark coffee being poured into a white cup, steam rising, moody warm light. Cut to a wide shot of a person slumped over a desk in the late afternoon, seen from behind or the side so the face is not visible, tired posture, dim office light, scattered papers. Cut to a bright contrasting scene: an open window with fresh morning light, a person's silhouette stretching energetically (no face visible), green plants, vibrant and alive. Cinematic, shallow depth of field, soft film grain, realistic. The mood shifts from tired and dim to bright and energetic. No people's faces visible, no on-screen text, no logos, no watermarks, no readable text anywhere.
 
-**Overlay en CapCut (español):**
-1. "El café no te da energía." (0-3s)
-2. "Te la presta. Y te la cobra a la tarde." (3-7s)
-3. "Por eso el bajón de las 3 PM." (7-10s)
-4. "Hay otra forma de tener energía estable." (10-14s)
-5. "Todo el día, sin bajón." (14-17s)
-6. "Te la muestro acá 👇" (17-20s)
+**Overlay en CapCut (español, re-timeado a 10s):**
+1. "El café no te da energía." (0–2s)
+2. "Te la presta." (2–3.5s)
+3. "Y te la cobra a la tarde." (3.5–5.5s)
+4. "Por eso el bajón de las 3 PM." (5.5–7.5s)
+5. "Hay otra forma. Estable, todo el día." (7.5–9.5s)
+6. "Te la muestro 👇" (9.5–10s)
 
 **Copy del anuncio:**
 - **Primary text:** Si necesitás café para arrancar y otro para el bajón de la tarde, tu energía está prestada. En "Despertate con Energía" te muestro cómo tener energía estable todo el día, de forma natural 👇
