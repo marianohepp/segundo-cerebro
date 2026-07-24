@@ -19,3 +19,7 @@ service-account*.json
 # Se deja este patrón por si alguna vez se crea una carpeta privada acá dentro por error.
 _PRIVADO-LOCAL/
 CEREBRO-PRIVADO-LOCAL/
+
+# Temporales de Google Drive (reflejo)
+.tmp.driveupload/
+.tmp.drivedownload/
