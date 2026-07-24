@@ -26,7 +26,15 @@ El video es "crear un ebook de cero y venderlo en Hotmart". Mariano **no está e
 - La idea de **usar agentes que orquestan Claude** para ganar velocidad en tareas repetitivas.
 
 **Lo que NO le aplica (ya lo tiene o no es su caso):**
-- Crear el ebook de cero, y publicar en Hotmart (usa Shopify + MercadoPago, mejor para Argentina).
+- Publicar en Hotmart → **Mariano vende en Shopify + MercadoPago** (decisión confirmada 2026-07-24, mejor para Argentina). Solo se cambia esa pieza; el resto del método sí lo aprovecha.
+
+## ✅ Versión adaptada para Mariano (confirmada 2026-07-24)
+1. **Nicho/ángulo** → validar con agentes de Cosmos AI (aprovecha el "prompt secreto" de mercado hispanohablante).
+2. **Generar/mejorar contenido** (ebook, ángulos) con IA.
+3. **Copy de página de ventas** con agentes.
+4. **Vender en Shopify + MercadoPago** (NO Hotmart).
+5. Página de ventas: puede probar Lovable, o seguir con su stack actual (Netlify).
+> El resto del video (Hotmart) se ignora. La pieza de venta ya está resuelta con [[despertate-bien]].
 
 **⚠️ Lo que este video NO cubre y ES su cuello de botella real:**
 - **Edición de videos / creativos para Meta Ads** (el problema de Higgsfield con texto alucinado → ver [[estado-actual]] y [[despertate-bien]]). Para eso, el video útil es **"Cómo crear anuncios usando IA"** del mismo autor — pendiente de procesar.
