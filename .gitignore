@@ -24,6 +24,9 @@ CEREBRO-PRIVADO-LOCAL/
 .tmp.driveupload/
 .tmp.drivedownload/
 
+# Config de Obsidian (app de lectura): no hace falta versionarla
+.obsidian/
+
 # Archivos multimedia pesados (audio/video de Zoom): quedan en Drive, NO en git
 *.m4a
 *.mp4
