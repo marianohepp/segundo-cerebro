@@ -33,6 +33,8 @@ _Última actualización: 2026-07-23_
 ## Eventos presenciales organizados
 Concordia, Chaco, Buenos Aires, Córdoba, Uruguay, Nogoyá. Presentación PROA en **Alumbra 2026 (Lima, Perú)** con deck HTML interactivo.
 
+Ver [[evento-umbra]] — evento anual de Fuxion en Perú por los 20 años (estadio 20.000, 37 países). _Posiblemente el mismo "Alumbra" — nombre a confirmar._ Mariano prepara una capacitación para motivar la asistencia del equipo.
+
 ## Foco actual
 Conversación humana directa con **Rosa y Adri**, por encima de seguir construyendo sistemas.
 

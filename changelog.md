@@ -4,6 +4,13 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-23 — Procesado: capacitación evento Umbra (prueba del circuito completo)
+- **Fuente:** `RAW/2026-07-23-claude-capacitacion-umbra.md` (conversación compartida de Claude, traída vía navegador).
+- **Nuevo tema `evento-umbra.md`** (tema 18): evento anual de Fuxion en Perú (20 años, estadio 20.000, 37 países) + la capacitación que Mariano da el miércoles (deck Canva, 10 slides, 3 ejes: analogía pizzero / asistir cambia mindset / mentalidad-entorno).
+- Actualizados `fuxion-proa.md` (link al evento), `index.md`, `estado-actual.md` (deadline del miércoles).
+- **Conexión inesperada / contradicción menor:** el evento aparece como **"Umbra"** en la conversación pero como **"Alumbra 2026"** en la wiki → marcado para confirmar nombre.
+- ✅ Primer procesado de una nota capturada desde el celular: circuito RAW → WIKI validado.
+
 ## 2026-07-23 — Dashboard + sincronización multi-dispositivo
 - **Nuevo tema `estado-actual.md`** (dashboard único de bloqueantes/decisiones/fechas), enlazado desde `index.md`.
 - **Privacidad:** datos sensibles de terceros (tema fiscal de un downline) movidos a `H:\CEREBRO-PRIVADO-LOCAL\` — carpeta **fuera** de SEGUNDO CEREBRO, invisible para Drive y GitHub. Redactadas todas las menciones en archivos que se suben.

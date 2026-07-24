@@ -5,6 +5,7 @@
 _Última actualización: 2026-07-23_
 
 ## ⏰ Fechas y deadlines
+- **Miércoles próximo** — dar la **capacitación del [[evento-umbra]]** (deck Canva, 10 slides, 30 min) para motivar al equipo a ir al evento anual de Fuxion en Perú.
 - **28-ago-2026** — cierre del ciclo de 90 días. Meta doble: **rango Diamante** en [[fuxion-proa]] + **primeras ventas del ebook** ([[despertate-bien]]).
 
 ## 🔴 Bloqueantes activos (frenan resultado hoy)

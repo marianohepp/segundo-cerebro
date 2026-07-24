@@ -20,6 +20,7 @@ _Última actualización: 2026-07-23_
 - [[fuxion-proa]] — el negocio Fuxion dentro de PROA; ingreso residual, meta Diamante
 - [[proa-crm]] — app CRM propia "Iva" vs. el competidor Xenda
 - [[sofi-agente-wp]] — agente IA de WhatsApp que califica leads
+- [[evento-umbra]] — evento anual de Fuxion en Perú (20 años); capacitación de Mariano el miércoles
 
 ## 📱 Productos digitales
 - [[despertate-bien]] — ebook+app de sueño/energía (FOCO); bloqueado por creativos de video
