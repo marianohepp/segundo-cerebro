@@ -38,5 +38,9 @@ Tu b-roll de Veo ya sale excelente y sin texto alucinado — no lo tires. Automa
 
 **Orden correcto:** 1) terminá y lanzá esta tanda con el método actual. 2) recién ahí probás el truco de CapCut/voiceover. 3) si aún es lento, comprás Submagic/Captions. NUNCA construir una app propia ahora.
 
+## Stack de edición (decidido 2026-07-24)
+- **Editor: CapCut Pro** (~USD 10/mes; plan anual más barato). Elegido por ser barato, ya conocido y desbloquear export sin marca de agua + subtítulos automáticos + texto a voz. NO migrar a Premiere/DaVinci (más completos = más lentos = contra "tiempo es oro").
+- **Cuidado comercial:** para anuncios pagos, usar música de uso comercial / royalty-free (no cualquier track de la biblioteca).
+
 ## Relacionado
 - [[despertate-bien]] · [[workflow-cosmos]] · [[estado-actual]] · [[marco-ejecucion]] · [[parking-lot]]
