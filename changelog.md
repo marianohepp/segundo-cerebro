@@ -4,11 +4,15 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
-## 2026-07-23 — Procesado: capacitación evento Umbra (prueba del circuito completo)
-- **Fuente:** `RAW/2026-07-23-claude-capacitacion-umbra.md` (conversación compartida de Claude, traída vía navegador).
-- **Nuevo tema `evento-umbra.md`** (tema 18): evento anual de Fuxion en Perú (20 años, estadio 20.000, 37 países) + la capacitación que Mariano da el miércoles (deck Canva, 10 slides, 3 ejes: analogía pizzero / asistir cambia mindset / mentalidad-entorno).
+## 2026-07-23 — Corrección de nombre: Umbra → Alumbra
+- Mariano confirmó que el evento se llama **Alumbra** (el "Umbra" original venía de una transcripción de audio errada).
+- Renombrados: `WIKI/evento-umbra.md` → `evento-alumbra.md` y `RAW/…-umbra.md` → `…-alumbra.md`.
+- Actualizados todos los enlaces `[[evento-umbra]]` → `[[evento-alumbra]]` (index, fuxion-proa, estado-actual) y eliminada la nota de "nombre a confirmar". Contradicción resuelta.
+
+## 2026-07-23 — Procesado: capacitación evento Alumbra (prueba del circuito completo)
+- **Fuente:** conversación compartida de Claude, traída vía navegador (RAW `…-capacitacion-alumbra.md`).
+- **Nuevo tema `evento-alumbra.md`** (tema 18): evento anual de Fuxion en Perú (20 años, estadio 20.000, 37 países) + la capacitación que Mariano da el miércoles (deck Canva, 10 slides, 3 ejes: analogía pizzero / asistir cambia mindset / mentalidad-entorno).
 - Actualizados `fuxion-proa.md` (link al evento), `index.md`, `estado-actual.md` (deadline del miércoles).
-- **Conexión inesperada / contradicción menor:** el evento aparece como **"Umbra"** en la conversación pero como **"Alumbra 2026"** en la wiki → marcado para confirmar nombre.
 - ✅ Primer procesado de una nota capturada desde el celular: circuito RAW → WIKI validado.
 
 ## 2026-07-23 — Dashboard + sincronización multi-dispositivo

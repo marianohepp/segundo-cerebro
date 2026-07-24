@@ -1,4 +1,4 @@
-# Evento Umbra (Perú) — evento anual de Fuxion
+# Evento Alumbra (Perú) — evento anual de Fuxion
 
 > El evento anual de la compañía Fuxion, en Perú, por los 20 años: estadio propio para 20.000 personas, líderes de 37 países. Mariano prepara una capacitación para motivar a su equipo a asistir.
 
@@ -8,7 +8,7 @@ _Última actualización: 2026-07-23_
 - **Evento anual de Fuxion** en **Perú**, por los **20 años** de la compañía.
 - La empresa armó un **estadio propio** para **20.000 personas**.
 - Reúne a **líderes de los 37 países** donde está la marca.
-- ⚠️ **Nota de nombre:** en esta conversación aparece como **"Umbra"**; en [[fuxion-proa]] figura como **"Alumbra 2026 (Lima, Perú)"**. Muy probablemente **el mismo evento** — confirmar el nombre exacto.
+- Es el mismo evento que en [[fuxion-proa]] figura como **"Alumbra 2026 (Lima, Perú)"**.
 
 ## Capacitación de Mariano (acción con fecha)
 - **Entrega:** el **miércoles próximo**. Duración: **30 min máx**. Formato: **Canva** (10 diapositivas).
