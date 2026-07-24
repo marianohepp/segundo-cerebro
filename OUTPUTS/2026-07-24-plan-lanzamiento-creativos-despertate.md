@@ -91,6 +91,17 @@ _(Si Veo limita la duración, generá 2-3 clips cortos con esas escenas y los un
 - **Qué mirar (a las 48-72h):** CTR (link), CPC, costo por "Ver contenido". El que tenga mejor CTR + menor costo = **ganador**.
 - **Escalar:** pausás los 2 perdedores, y al ganador le subís presupuesto de a poco (no más de ~20-30% por vez para no resetear el aprendizaje) o lo duplicás en un conjunto nuevo.
 
+## 🎞️ Guía de montaje en CapCut (mismo proceso para los 3)
+1. **Importá** el video crudo → arrastralo a la línea de tiempo.
+2. **Texto:** pestaña *Texto → Agregar texto*. Escribí la línea 1 del overlay. Estilo legible: **fuente bold, blanco, con sombra o barra oscura semitransparente detrás**. Posición: tercio inferior o centro, con margen (zona segura ~10%).
+3. **Timing:** arrastrá los bordes del clip de texto para que dure su rango (ej. 0–2.5s). Repetí para cada línea (duplicá el clip de texto para mantener el mismo estilo y solo cambiás el texto y el tiempo).
+4. **Animación (opcional):** entrada *fade in* suave en cada texto.
+5. **Música:** pestaña *Audio* → pista suave/inspiracional (biblioteca de CapCut, sin copyright). Volumen bajo (~20-30%).
+6. **Tapar la marca ✦ (opcional):** escalá el video a ~104% para que la esquina quede fuera de cuadro, o poné un elemento chico encima.
+7. **Exportar:** **1080×1920 (9:16), 30 fps, calidad alta, MP4**. Guardá en `2-finales-meta` como `cX-...-final-v1.mp4`.
+
+**Reglas de legibilidad:** texto grande (se lee en celular), blanco con sombra/fondo, sin pegarlo a los bordes, y que no tape lo importante de la escena.
+
 ## ✅ Checklist de HOY (para salir con esto lanzado)
 1. [ ] Generar los 3 videos en Veo 3/Kling con los prompts de arriba (sin texto, sin cara).
 2. [ ] Montar cada uno en CapCut con su overlay en español + música.
