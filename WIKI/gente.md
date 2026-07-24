@@ -20,6 +20,12 @@ _Última actualización: 2026-07-23_
 - **Martu y Brian** — fundadores de la comunidad PROA.
 - **Viviana** — terapeuta de sanación escalar, primera invitada de [[nueva-frecuencia]] (EP05).
 
+**Referentes / sistema PROA** (de los espacios de coaching → [[metodologia-proa]])
+- **Luca Meloni** — referente citado ("la frustración nace cuando la expectativa es más alta que la acción real").
+- **Vale** — dio una "capa" (capacitación) reciente; referente del equipo.
+- **Buva** y **Lucas** — nombres del "sistema" que se replica ("no inventamos la pólvora").
+- **Silvi, Marce, Jime** — integrantes del equipo que preguntaron en el espacio de coaching (2026-07-23).
+
 ## Negocios
 - **Lucas** — presta su CUIT/registro fiscal para [[torque]], factura mientras Mariano vende. Comisión 15–20% + fijo. ⚠️ **Pendiente por resolver**.
 - **Nelson** — socio en el taller de repuestos.

@@ -21,6 +21,7 @@ _Última actualización: 2026-07-23_
 - [[proa-crm]] — app CRM propia "Iva" vs. el competidor Xenda
 - [[sofi-agente-wp]] — agente IA de WhatsApp que califica leads
 - [[evento-alumbra]] — evento anual de Fuxion en Perú (20 años); capacitación de Mariano el miércoles
+- [[metodologia-proa]] — cómo se lidera y acompaña socios en PROA (acción>resultado, plan>meta, sistema)
 
 ## 📱 Productos digitales
 - [[despertate-bien]] — ebook+app de sueño/energía (FOCO); bloqueado por creativos de video

@@ -4,6 +4,13 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-24 — Procesado: transcripción Zoom de coaching PROA
+- **Fuente:** `RAW/GMT20260723-160739_Recording.cc.vtt` (transcripción Zoom de un espacio de coaching PROA, inicio de periodo). Se deja el `.vtt` intacto como fuente original.
+- **Nuevo tema `metodologia-proa.md`** (tema 20): cómo se lidera/acompaña en PROA — trabajo por periodos, sacar la carga emocional de la meta→plan, medir la acción (no el resultado) con herramienta, pedir permiso, plan de 90 días (PRO 1K / presentaciones / duplicación), el error de no soltar ("odio la palabra potencial"), volver al sistema, respetar lo que quiere el socio.
+- **`gente.md`:** sumados referentes del sistema PROA (Luca Meloni, Vale, Buva, Lucas) e integrantes del coaching (Silvi, Marce, Jime).
+- **Conexión fuerte detectada:** la "herramienta de medición diaria" que enseñan en PROA es justo lo que automatiza [[proa-crm]] → valida el diferencial del CRM. Y la metodología calza con [[marco-ejecucion]] (acción>intención). Anotado en el tema.
+- ✅ Segundo tipo de fuente al circuito (Zoom .vtt) procesado con éxito.
+
 ## 2026-07-23 — Corrección de nombre: Umbra → Alumbra
 - Mariano confirmó que el evento se llama **Alumbra** (el "Umbra" original venía de una transcripción de audio errada).
 - Renombrados: `WIKI/evento-umbra.md` → `evento-alumbra.md` y `RAW/…-umbra.md` → `…-alumbra.md`.
