@@ -23,3 +23,11 @@ CEREBRO-PRIVADO-LOCAL/
 # Temporales de Google Drive (reflejo)
 .tmp.driveupload/
 .tmp.drivedownload/
+
+# Archivos multimedia pesados (audio/video de Zoom): quedan en Drive, NO en git
+*.m4a
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4v
