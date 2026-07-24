@@ -4,6 +4,11 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-24 — Procesado: video método Cosmos AI (infoproductos)
+- **Fuente:** YouTube de Leonardo Arias, "eBook con IA en 24h + Hotmart". Método capturado desde descripción+capítulos (vía navegador).
+- **Nuevo tema `workflow-cosmos.md`** (tema 21): qué es Cosmos AI (agentes que orquestan Claude), el método de 5 pasos, y **lectura estratégica**: a Mariano le sirve la validación de nicho y el copy, NO crear ebook de cero en Hotmart (ya tiene Despertate Bien en Shopify). El video NO cubre su cuello de botella real (creativos de video) → traer el video "anuncios con IA" del mismo autor.
+- ✅ Cuarto tipo de fuente al circuito (video de YouTube) procesado.
+
 ## 2026-07-24 — Aclaración de estrategia + reencuadre del deck Alumbra
 - **Resuelto el ⚠️ Torque/dependencia:** Mariano aclaró que Torque es **alternativa de ingresos rápidos** (conocimiento + contactos proveedores), NO el foco. Foco = ebooks ([[despertate-bien]]) + [[fuxion-proa]] cuanto antes. Actualizados `perfil-mariano.md` y `torque.md`.
 - **Deck Alumbra mejorado** con un reencuadre potente de la sesión del 04/06: "la energía de un evento dura poco; lo distinto es lo que te resuena y te ancla tu porqué". Añadido a `OUTPUTS/2026-07-24-deck-capacitacion-alumbra.md` y a `evento-alumbra.md`.
