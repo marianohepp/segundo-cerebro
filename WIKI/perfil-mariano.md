@@ -15,8 +15,8 @@ _Última actualización: 2026-07-23_
 2. **[[fuxion-proa]]** — network marketing. Juego de ingreso residual a largo plazo.
 3. **[[despertate-bien]]** — producto digital de bienestar/sueño. Foco prioritario actual.
 
-## Objetivo macro
-Ingreso mensual pasivo/automático significativo. Estrategia: usar **[[torque]]** como puente de caja mientras maduran los proyectos digitales.
+## Objetivo macro (el norte)
+**Ingresos residuales de USD 100.000/mes** — y **ayudar a más personas a lograr lo mismo** (aclarado 2026-07-24). Estrategia: foco en ebooks ([[despertate-bien]]) + [[fuxion-proa]]; usar **[[torque]]** como puente de caja mientras maduran los digitales. Todo lo que no acerque a ese norte va al [[parking-lot]].
 
 ## Rutina y sistema operativo
 - **Mañanas:** taller de repuestos. **Tardes:** negocio digital.

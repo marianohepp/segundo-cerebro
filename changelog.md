@@ -4,6 +4,11 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-24 — Research creativos IA + norte de $100k + parking-lot
+- **Research procesado** (`recursos-creativos-ia.md`, tema 22): shortlist para el cuello de botella de creativos → video on-target de Leonardo Arias (`30ILN6S13LQ`, Veo 3, sin cara), imágenes con Nano Banana + Cosmos AI, y apps de pago (100 Ads de Claudio Conde, AI Builders). Recomendación: probar lo gratis antes de comprar.
+- **Objetivo macro grabado** en `perfil-mariano.md`: **USD 100.000/mes residuales + ayudar a otros**.
+- **Nuevo `parking-lot.md`** (tema 23): estacionamiento de ideas no-activas. Primera entrada: "copiar apps de creativos para venderlas" → estacionada para no desenfocar (decisión de Mariano).
+
 ## 2026-07-24 — Procesado: video método Cosmos AI (infoproductos)
 - **Fuente:** YouTube de Leonardo Arias, "eBook con IA en 24h + Hotmart". Método capturado desde descripción+capítulos (vía navegador).
 - **Nuevo tema `workflow-cosmos.md`** (tema 21): qué es Cosmos AI (agentes que orquestan Claude), el método de 5 pasos, y **lectura estratégica**: a Mariano le sirve la validación de nicho y el copy, NO crear ebook de cero en Hotmart (ya tiene Despertate Bien en Shopify). El video NO cubre su cuello de botella real (creativos de video) → traer el video "anuncios con IA" del mismo autor.

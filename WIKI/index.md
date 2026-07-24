@@ -9,6 +9,7 @@ _Última actualización: 2026-07-23_
 - [[marco-ejecucion]] — el sistema operativo mental (2 pilares + pregunta filtro) que aplica a todo
 - [[gente]] — mapa de personas: familia, red PROA, socios y amigos
 - [[conexiones]] — patrones ocultos que cruzan varios proyectos (lo que un índice plano no ve)
+- [[parking-lot]] — ideas capturadas pero NO activas (para soltar sin desenfocarse)
 - [[estado-actual]] — 🚦 dashboard único: bloqueantes, decisiones abiertas, fechas y pendientes
 
 ## 💼 Negocios físicos
@@ -26,6 +27,7 @@ _Última actualización: 2026-07-23_
 ## 📱 Productos digitales
 - [[despertate-bien]] — ebook+app de sueño/energía (FOCO); bloqueado por creativos de video
 - [[workflow-cosmos]] — método Cosmos AI (agentes) para validar nicho y generar copy; qué le sirve a Mariano
+- [[recursos-creativos-ia]] — shortlist de videos/apps para producir creativos de video con IA (Veo 3, 100 Ads…)
 - [[nueva-frecuencia]] — canal de YouTube de consciencia con avatar IA
 - [[planeta-limpio-corsair]] — créditos de reciclaje plástico (despriorizado)
 - [[otros-proyectos]] — madera del hermano + ebook de supervivencia (en pausa)
