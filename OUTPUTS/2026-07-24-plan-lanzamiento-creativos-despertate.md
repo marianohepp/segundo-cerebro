@@ -19,18 +19,20 @@ Regla de oro contra Higgsfield: **el texto NUNCA se genera dentro del video** (a
 ---
 
 ## 🎬 CREATIVO 1 — Ciencia del sueño (Matthew Walker) × Confesión en primera persona
-**Hook (0-3s):** "Durante años me desperté cansado aunque durmiera 8 horas. Hasta que entendí esto."
+**Hook (0-3s):** "Dormía 8 horas y me despertaba destruido."
 
-**Prompt Veo 3 (visual, sin texto, sin cara):**
-> Cinematic close-up of a dark bedroom at dawn, soft blue light through curtains, an alarm clock, rumpled sheets, a cup of coffee going cold. Slow dolly shots, moody, realistic, film grain. No text, no people's faces. 9:16 vertical.
+**Prompt Veo 3 (v2 pulida — pegar tal cual, en inglés rinde mejor):**
+> Vertical 9:16 cinematic footage. A dark, quiet bedroom just before dawn. Cool blue light seeps through half-closed curtains. Slow smooth dolly-in across rumpled white sheets and a single pillow. Cut to a macro close-up of an old digital alarm clock glowing at 5:58 AM. Cut to a cold cup of coffee on the nightstand, warm morning light slowly rising. Shallow depth of field, soft film grain, moody and realistic, muted cool tones warming as dawn breaks. Calm, intimate atmosphere. No people's faces visible, no on-screen text, no logos, no watermarks, no readable text anywhere.
+
+_(Si Veo limita la duración, generá 2-3 clips cortos con esas escenas y los unís en CapCut.)_
 
 **Overlay en CapCut (texto en español, aparece por línea):**
-1. "Dormía 8 horas y me despertaba muerto." (0-3s)
+1. "Dormía 8 horas y me despertaba destruido." (0-3s)
 2. "El problema no era cuánto dormía." (3-6s)
 3. "Era CÓMO dormía." (6-9s)
 4. "Cambié 3 cosas antes de dormir." (9-13s)
-5. "Y me despierto con energía real." (13-17s)
-6. "Te lo dejo acá 👇" (17-20s)
+5. "Hoy me levanto con energía real." (13-17s)
+6. "Te las dejo acá 👇" (17-20s)
 
 **Copy del anuncio:**
 - **Primary text:** ¿Dormís 8 horas y te levantás igual de cansado? No es cuánto dormís, es cómo. En "Despertate con Energía" te muestro los 3 cambios simples (basados en ciencia del sueño) para levantarte con pilas. Incluye la técnica de Respiración Gamma. 👇
