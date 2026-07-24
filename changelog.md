@@ -4,6 +4,14 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-24 — Procesado: 10 transcripciones Zoom → análisis de patrones
+- **Fuente:** 10 `.vtt` de mentorías/capacitaciones PROA (ene–jul 2026). Audios `.m4a` originales quedaron en Drive (gitignored).
+- **Nuevo OUTPUT `patron-capacitaciones-proa-2026-07-24.md`:** análisis transversal — 4 tipos de espacio (mentorías por calificación / capas de salud / negocio-evento / técnica), 7 patrones recurrentes, frases-marca, molde de las capas de salud, objeciones típicas.
+- **`metodologia-proa.md`** ampliado con los 4 tipos de espacio + frases-marca de la cultura.
+- **Enriquecido el perfil desde la capacitación de Mariano del 04/06:** hija **Martina** (~12), dejó la relación de dependencia (~abril 2026) para full Fuxion (⚠️ a conciliar con [[torque]]), ganó Leadership Academy + viaje a Curazao, bebida favorita Vita.
+- **Hallazgo:** una de las grabaciones (04/06) es la propia capacitación de Mariano sobre Alumbra → material directo para el deck.
+- ✅ Primer análisis de patrones sobre un corpus grande. Circuito escala a lotes.
+
 ## 2026-07-24 — Procesado: transcripción Zoom de coaching PROA
 - **Fuente:** `RAW/GMT20260723-160739_Recording.cc.vtt` (transcripción Zoom de un espacio de coaching PROA, inicio de periodo). Se deja el `.vtt` intacto como fuente original.
 - **Nuevo tema `metodologia-proa.md`** (tema 20): cómo se lidera/acompaña en PROA — trabajo por periodos, sacar la carga emocional de la meta→plan, medir la acción (no el resultado) con herramienta, pedir permiso, plan de 90 días (PRO 1K / presentaciones / duplicación), el error de no soltar ("odio la palabra potencial"), volver al sistema, respetar lo que quiere el socio.

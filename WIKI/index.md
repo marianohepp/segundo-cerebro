@@ -39,3 +39,4 @@ _Última actualización: 2026-07-23_
 - [Análisis de patrones de trabajo](../OUTPUTS/patron-trabajo-2026-07-23.md) — 2026-07-23 · patrón: construye más de lo que termina; cuello = cerrar/vender
 - [Health check del wiki](../OUTPUTS/health-check-2026-07-23.md) — 2026-07-23 · 🟢 salud buena; faltan baselines y `estado-actual.md`
 - [Deck capacitación Alumbra](../OUTPUTS/2026-07-24-deck-capacitacion-alumbra.md) — 2026-07-24 · guion de 10 slides para el miércoles ([[evento-alumbra]])
+- [Patrones de las capacitaciones PROA](../OUTPUTS/patron-capacitaciones-proa-2026-07-24.md) — 2026-07-24 · análisis de 11 sesiones: tipos de espacio, frases-marca, moldes reutilizables

@@ -5,7 +5,7 @@
 _Última actualización: 2026-07-23_
 
 ## Familia
-- **Hija** — practica patín. Tiene pestaña propia en [[finanzas-personales]].
+- **Martina** (hija, ~12 años) — practica patín; "fiel compañera de ferias y mini emprendedora". Tiene pestaña propia en [[finanzas-personales]]. _(Nombre y edad confirmados en la capacitación de Mariano del 04/06/2026.)_
 
 ## Fuxion / PROA → [[fuxion-proa]]
 - **Rosa** y **Adri (Adriana Streck)** — líneas más fuertes de duplicación, **prioridad de conversación directa**, en la beta cerrada de [[proa-crm]]. *Rosa Wendler DV4: 2.504 de volumen.*

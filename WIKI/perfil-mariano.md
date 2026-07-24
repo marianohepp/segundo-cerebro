@@ -23,5 +23,10 @@ Ingreso mensual pasivo/automático significativo. Estrategia: usar **[[torque]]*
 - **Sistema de 90 días** (framework Ray Dalio) con eventos recurrentes en Google Calendar.
 - **Ciclo actual:** corre hasta el **28 de agosto de 2026**. Meta doble: rango **Diamante en Fuxion** + **primeras ventas del ebook** ([[despertate-bien]]).
 
+## Datos que surgieron en su capacitación del 04/06/2026
+- 43 años, nacido en Córdoba, +25 años en Crespo. Empezó Fuxion hace ~3 años (lo enganchó un anuncio de Instagram sobre salud).
+- **Dejó la relación de dependencia (~abril 2026) para dedicarse full a Fuxion.** ⚠️ Ojo: el perfil base decía "mañanas en el taller de repuestos" → confirmar cómo convive esto hoy con [[torque]].
+- Logros Fuxion: ganó la **Leadership Academy** y el **bono viaje a Curazao**. Bebida favorita: **Vita**.
+
 ## Relacionado
-- [[marco-ejecucion]] · [[finanzas-personales]] · [[salud-longevidad]] · [[gente]]
+- [[marco-ejecucion]] · [[finanzas-personales]] · [[salud-longevidad]] · [[gente]] · [[metodologia-proa]]

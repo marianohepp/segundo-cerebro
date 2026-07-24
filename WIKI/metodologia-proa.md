@@ -41,5 +41,18 @@ _Última actualización: 2026-07-23 · Fuente: transcripción Zoom de un espacio
 ## Contexto del evento
 - Se menciona un presencial en **Buenos Aires en septiembre** (ligado al plan de 90 días) y una "capa" (capacitación) que dio **Vale** la noche anterior. Conecta con [[evento-alumbra]] y los eventos de [[fuxion-proa]].
 
+## Los 4 tipos de espacio PROA
+(De analizar 11 sesiones — ver `OUTPUTS/patron-capacitaciones-proa-2026-07-24.md`.)
+1. **Mentorías por calificación** — entrevista a un líder top + Q&A de "calificados"; asistir es premio por accionar.
+2. **Capacitaciones de salud** — molde fijo: condición (no "enfermedad") → dato argentino → alivio natural → producto Fuxion → sorteo ("nombre y apellido en Zoom").
+3. **Capacitaciones de negocio/evento** — ej. Mariano sobre [[evento-alumbra]] (04/06).
+4. **Técnica/duplicación** — el "cómo" (invitar, prospectar, acompañar).
+
+### Frases-marca de la cultura
+- *"Acá calificaron / están en la cancha"* (acción como filtro y premio).
+- *"No inventamos la pólvora, contamos nuestra historia"* (humildad + sistema).
+- *"El potencial se ve en la cancha"* (odian la palabra potencial).
+- **Edificar** al invitado y **celebrar cada pasito** como cultura deliberada.
+
 ## Relacionado
-- [[fuxion-proa]] · [[marco-ejecucion]] (coincide fuerte: acción > intención, medir, sistema) · [[proa-crm]] (la "herramienta de medición" que describen es justo lo que el CRM automatiza) · [[gente]]
+- [[fuxion-proa]] · [[marco-ejecucion]] (coincide fuerte: acción > intención, medir, sistema) · [[proa-crm]] (la "herramienta de medición" que describen es justo lo que el CRM automatiza) · [[evento-alumbra]] · [[gente]]
