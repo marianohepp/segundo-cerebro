@@ -48,6 +48,19 @@ _Fecha: 2026-07-24 · Para: capacitación del miércoles · Fuente: [[evento-alu
 
 ---
 
+## 🔥 Reencuadre potente (de la sesión del 04/06 sobre Alumbra)
+> Salió de tu capa del 04/06. _Nota: por la transcripción no es 100% seguro si esta parte la decís vos o una co-líder — pero la idea es oro y le da profundidad al deck._ Este ángulo hace que la charla no sea pura arenga, y te diferencia.
+
+**La idea central:** la energía de un evento **dura poco**. Si el mensaje es solo "vení que te vas a cargar de energía", es flojo — *"¿querés energía? andá a una fiesta con música que te guste"*. Lo que hace **distinto** a Alumbra es que ahí **se dicen cosas que te resuenan y te muestran algo que no veías de vos**: escuchás una historia de éxito y decís "yo quiero eso", escuchás un bono que alguien se ganó, alguien te espeja un potencial que no te veías.
+
+**El cómo capitalizarlo (tip accionable):** no salgas del evento solo a "accionar, accionar, accionar". Pará un segundo y preguntate: **"¿Qué me tocó? ¿Qué frase me resonó? ¿Por qué?"** — porque ahí está **tu porqué**. Registralo/escribilo. Eso convierte la energía pasajera en propósito duradero.
+
+**Dónde meterlo en el deck:**
+- **Slide 3** ("Qué es Alumbra de verdad") → abrilo con el reencuadre: *"No te invito por la energía. La energía dura poco."* y explicá la diferencia real.
+- **Slide 10** (cierre) → sumá el tip: el compromiso no es solo ir, es ir con la pregunta lista *"¿qué me va a tocar y por qué?"* para volver con un porqué, no solo con adrenalina.
+
+---
+
 ## Notas para armarlo en Canva
 - **Poco texto por slide, número/frase grande.** Vos sos el que habla; la slide es apoyo.
 - Colores/branding de PROA + Fuxion. Slides 2 y 9 son los picos emocionales — dales el diseño más impactante.

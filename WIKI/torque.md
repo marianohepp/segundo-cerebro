@@ -4,6 +4,9 @@
 
 _Última actualización: 2026-07-23_
 
+## Posicionamiento (aclarado por Mariano 2026-07-24)
+Torque es una **alternativa de ingresos rápidos** que aprovecha sus 25+ años de conocimiento y sus contactos con proveedores. **No es el foco** — el foco real es hacer funcionar los ebooks ([[despertate-bien]]) y [[fuxion-proa]] lo antes posible. Torque genera caja mientras eso madura.
+
 ## Modelo
 - Fabricación/entrega **a pedido, sin stock**.
 - Canales: repuesterías y mecánicos directos.

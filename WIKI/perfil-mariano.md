@@ -25,7 +25,7 @@ Ingreso mensual pasivo/automático significativo. Estrategia: usar **[[torque]]*
 
 ## Datos que surgieron en su capacitación del 04/06/2026
 - 43 años, nacido en Córdoba, +25 años en Crespo. Empezó Fuxion hace ~3 años (lo enganchó un anuncio de Instagram sobre salud).
-- **Dejó la relación de dependencia (~abril 2026) para dedicarse full a Fuxion.** ⚠️ Ojo: el perfil base decía "mañanas en el taller de repuestos" → confirmar cómo convive esto hoy con [[torque]].
+- **Dejó la relación de dependencia (~abril 2026).** Aclaración de Mariano (2026-07-24): **[[torque]] es una alternativa de ingresos rápidos** (aprovecha su conocimiento y contactos con proveedores), **no el foco**. El foco real es hacer funcionar **los ebooks ([[despertate-bien]]) y [[fuxion-proa]] lo antes posible**. Torque financia mientras eso madura.
 - Logros Fuxion: ganó la **Leadership Academy** y el **bono viaje a Curazao**. Bebida favorita: **Vita**.
 
 ## Relacionado

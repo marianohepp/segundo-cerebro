@@ -20,5 +20,8 @@ _Última actualización: 2026-07-23_
 2. **Asistir cambia el mindset (sobre todo si sos nuevo):** entender el negocio en vivo y ver con cuánta gente de tu equipo estás.
 3. **Mentalidad:** mindset de empresario y de crecimiento; el **entorno influye** en las decisiones diarias y explica por qué a veces uno está **estancado**. (Enlaza con [[marco-ejecucion]].)
 
+## Reencuadre clave (de la sesión del 04/06)
+La energía de un evento **dura poco** ("¿querés energía? andá a una fiesta"). Lo que hace distinto a Alumbra es que ahí **se dice algo que te resuena y te muestra un potencial que no te veías**. El cómo capitalizarlo: parar y preguntarse *"¿qué me tocó y por qué?"* para volver con un **porqué**, no solo con adrenalina. → Detalle en `OUTPUTS/2026-07-24-deck-capacitacion-alumbra.md`.
+
 ## Relacionado
-- [[fuxion-proa]] · [[marco-ejecucion]] · [[estado-actual]] · [[gente]]
+- [[fuxion-proa]] · [[marco-ejecucion]] · [[estado-actual]] · [[metodologia-proa]] · [[gente]]

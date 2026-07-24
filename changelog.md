@@ -4,6 +4,11 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-24 — Aclaración de estrategia + reencuadre del deck Alumbra
+- **Resuelto el ⚠️ Torque/dependencia:** Mariano aclaró que Torque es **alternativa de ingresos rápidos** (conocimiento + contactos proveedores), NO el foco. Foco = ebooks ([[despertate-bien]]) + [[fuxion-proa]] cuanto antes. Actualizados `perfil-mariano.md` y `torque.md`.
+- **Deck Alumbra mejorado** con un reencuadre potente de la sesión del 04/06: "la energía de un evento dura poco; lo distinto es lo que te resuena y te ancla tu porqué". Añadido a `OUTPUTS/2026-07-24-deck-capacitacion-alumbra.md` y a `evento-alumbra.md`.
+- ⚠️ Nota de atribución: la voz de ese pasaje (04/06) podría ser una co-líder, no Mariano (transcripción sin etiquetas de hablante). Marcado como tal.
+
 ## 2026-07-24 — Procesado: 10 transcripciones Zoom → análisis de patrones
 - **Fuente:** 10 `.vtt` de mentorías/capacitaciones PROA (ene–jul 2026). Audios `.m4a` originales quedaron en Drive (gitignored).
 - **Nuevo OUTPUT `patron-capacitaciones-proa-2026-07-24.md`:** análisis transversal — 4 tipos de espacio (mentorías por calificación / capas de salud / negocio-evento / técnica), 7 patrones recurrentes, frases-marca, molde de las capas de salud, objeciones típicas.
