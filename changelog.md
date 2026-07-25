@@ -4,6 +4,13 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-25 — Campaña Meta armada (borrador) vía navegador
+- Campaña creada en la cuenta correcta **"despertate super bien" (...55252)** — Claude la armó operando Ads Manager con la extensión Chrome (Opción B: Claude configura, Mariano publica).
+- Config: objetivo **Ventas**, **US$ 3/día** (CBO; la cuenta está en USD, no pesos — ojo con esto), puja Volumen más alto. Conjunto: Argentina amplio, pixel `despertatebien.com`, evento **Ver contenido** (pixel frío → se calienta primero, después se pasa a Compra).
+- 3 errores frenados a tiempo: cuenta equivocada (...881036), moneda USD vs pesos, y **C1 exportado apaisado 1920x1080** (los otros 2 OK 1080x1920).
+- Videos finales en `H:\CREATIVOS DESPERTATE\2-finales-meta`: c2-energia-final-v1, c3-cafe-final-v1 (OK). **Falta re-exportar C1 vertical.**
+- Pendiente: C1 vertical → subir 3 videos + copy a los 3 anuncios → Mariano revisa y publica. Copy en `OUTPUTS/2026-07-24-guia-campana-meta-despertate.md`.
+
 ## 2026-07-24 — 🎉 HITO: 3 creativos de video generados (bloqueante destrabado)
 - Los **3 creativos de Despertate Bien generados en Veo 3** (Google Flow): c1 sueño (cama→reloj→café), c2 energía (agua→comida→amanecer), c3 café (café→escritorio→estiramiento). Todos 10s, 9:16, **sin texto alucinado y sin caras** — resuelto el problema de Higgsfield que frenaba las ventas hace semanas.
 - Guardados en `H:\CREATIVOS DESPERTATE\1-crudos-veo\`. Prompts pulidos (v2) en el plan de lanzamiento.
