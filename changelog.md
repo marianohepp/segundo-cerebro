@@ -9,6 +9,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 - **`metodologia-proa.md`** ampliado con los frameworks de Dalmir: "actúa por lo que sabes, no por cómo te sientes"; acompañar en el bajón pidiendo permiso; "la office habla"; calificación = periodo + afiliación; autoempleado → dueño de negocio; vender sueños (no "ingreso extra"); **herramienta #1 "Imaginate"** (de Margarita Patiño); predicar con el ejemplo.
 - **`gente.md`** + Dalmir, Willy y Belinda (Guatemala), Angie Gluxman, Macky Fernández, Margarita Patiño.
 
+## 2026-07-25 — Campaña Tráfico: 3 anuncios armados (C1 + 2 copias), falta subir c2/c3
+- Mariano corrigió la URL de destino del C1 a `https://despertatebien.com/`.
+- Claude duplicó el C1 x2 (Duplicar rápidamente, 2 copias) → 3 anuncios en el conjunto. Renombró la 1ra copia a **C2 - Energia**.
+- Pendiente (lo hace Mariano, porque los videos >10MB no los sube Claude): en C2 y C3 → Editar contenido multimedia → subir `c2-energia-final-v1.mp4` / `c3-cafe-final-v1.mp4` + cambiar texto/título (copys en `OUTPUTS/2026-07-24-guia-campana-meta-despertate.md`). Renombrar la 2da copia a **C3 - Cafe**. Luego **Publicar** (Mariano) y no tocar 48-72h.
+- Todo lo demás (pixel, público AR, $3/día, CTA "Ver más", URL) ya viene heredado del C1.
+
 ## 2026-07-25 — Campaña recreada limpia (Tráfico) tras lío de Advantage+
 - La campaña Advantage+ Ventas original se enroscó: Meta le pegó un "mensaje de marketing" de WhatsApp automático ("Publicar anuncio y mensaje"). Se decidió **recrear como campaña manual de Tráfico** (limpia, sin Advantage+, sin mensajes).
 - **Nueva campaña "Despertate - Trafico Test - Jul25"** (cuenta ...55252): manual de Tráfico, $3 USD/día, público Argentina amplio, destino Sitio web. Anuncio **C1** con video reusado de la biblioteca (`c1 916.mp4`), texto+título+CTA "Ver más", **pixel conectado** (ID 26395877520024900) → calienta aunque sea tráfico.
