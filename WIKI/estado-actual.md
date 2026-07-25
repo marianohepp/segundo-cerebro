@@ -9,7 +9,7 @@ _Última actualización: 2026-07-23_
 - **28-ago-2026** — cierre del ciclo de 90 días. Meta doble: **rango Diamante** en [[fuxion-proa]] + **primeras ventas del ebook** ([[despertate-bien]]).
 
 ## 🔴 Bloqueantes activos (frenan resultado hoy)
-- **🆕 25/07 — SSL vencido en `despertatebien.com`** ("certificate has expired"). La tienda tira "conexión no privada" → NO se puede lanzar la campaña (destino inseguro). Fix: Shopify → Dominios → revisar DNS (A → 23.227.38.65, CNAME www → shops.myshopify.com) para que Shopify re-emita el certificado. **Bloquea el lanzamiento de la campaña ya armada.**
+- **🆕 25/07 — "Conexión no privada" en `despertatebien.com`** → bloquea el lanzamiento de la campaña ya armada. **DNS OK** (A → 23.227.38.65, www → shops.myshopify.com). Diagnóstico refinado: el cert lo intercepta **Avast Antivirus** (issuer = Avast Web/Mail Shield) y es para `*.myshopify.com` vencido (15-nov-2025). **Dos causas posibles:** (a) Avast análisis-HTTPS en la PC de Mariano, (b) Shopify no emitió el SSL del dominio propio. **Test:** abrir la tienda desde el celular con datos móviles → si carga = culpa de Avast (desactivar análisis HTTPS); si falla = culpa de Shopify (reconectar dominio para re-emitir SSL).
 | Proyecto | Bloqueante | Estado / salida |
 |---|---|---|
 | [[despertate-bien]] | Meta Ads pausados, **ventas $0** por creativos video-IA con texto alucinado (Higgsfield) | ✅ 24/07 DESTRABADO: **3 creativos generados en Veo 3** (sin texto, sin caras) en `H:\CREATIVOS DESPERTATE\1-crudos-veo`. Falta: montar overlays en CapCut → armar campaña Meta → lanzar. Ver `OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md`. **Prioridad #1.** |
