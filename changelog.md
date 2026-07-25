@@ -9,6 +9,13 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 - **`metodologia-proa.md`** ampliado con los frameworks de Dalmir: "actúa por lo que sabes, no por cómo te sientes"; acompañar en el bajón pidiendo permiso; "la office habla"; calificación = periodo + afiliación; autoempleado → dueño de negocio; vender sueños (no "ingreso extra"); **herramienta #1 "Imaginate"** (de Margarita Patiño); predicar con el ejemplo.
 - **`gente.md`** + Dalmir, Willy y Belinda (Guatemala), Angie Gluxman, Macky Fernández, Margarita Patiño.
 
+## 2026-07-25 — Campaña recreada limpia (Tráfico) tras lío de Advantage+
+- La campaña Advantage+ Ventas original se enroscó: Meta le pegó un "mensaje de marketing" de WhatsApp automático ("Publicar anuncio y mensaje"). Se decidió **recrear como campaña manual de Tráfico** (limpia, sin Advantage+, sin mensajes).
+- **Nueva campaña "Despertate - Trafico Test - Jul25"** (cuenta ...55252): manual de Tráfico, $3 USD/día, público Argentina amplio, destino Sitio web. Anuncio **C1** con video reusado de la biblioteca (`c1 916.mp4`), texto+título+CTA "Ver más", **pixel conectado** (ID 26395877520024900) → calienta aunque sea tráfico.
+- ⚠️ **Pendiente:** el campo de URL de destino quedó con la URL del **funnel** (`funnel.despertatebien.com`) y es un campo controlado que revierte por automatización → Mariano debe cambiarlo a `https://despertatebien.com/` a mano. Falta también crear **C2 y C3** (duplicar C1 + cambiar video/copy). Después: revisar y publicar (lo hace Mariano).
+- El link de destino confirmado por Mariano: la **home de la tienda** `https://despertatebien.com/`.
+- Los borradores viejos (campaña Advantage+ enroscada) quedan sin publicar; se pueden borrar.
+
 ## 2026-07-25 — Campaña Meta armada (borrador) vía navegador
 - Campaña creada en la cuenta correcta **"despertate super bien" (...55252)** — Claude la armó operando Ads Manager con la extensión Chrome (Opción B: Claude configura, Mariano publica).
 - Config: objetivo **Ventas**, **US$ 3/día** (CBO; la cuenta está en USD, no pesos — ojo con esto), puja Volumen más alto. Conjunto: Argentina amplio, pixel `despertatebien.com`, evento **Ver contenido** (pixel frío → se calienta primero, después se pasa a Compra).
