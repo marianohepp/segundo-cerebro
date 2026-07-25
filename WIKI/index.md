@@ -45,4 +45,5 @@ _Última actualización: 2026-07-23_
 - [Patrones de las capacitaciones PROA](../OUTPUTS/patron-capacitaciones-proa-2026-07-24.md) — 2026-07-24 · análisis de 11 sesiones: tipos de espacio, frases-marca, moldes reutilizables
 - [Alumbra — texto para Canva](../OUTPUTS/2026-07-24-alumbra-canva-copypaste.md) — 2026-07-24 · 10 slides en formato copy-paste para armar en Canva
 - [Plan de lanzamiento creativos Despertate](../OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md) — 2026-07-24 · 3 creativos Veo 3 + copy + estructura de campaña de test
+- [Semana de lanzamiento Nueva Frecuencia](../OUTPUTS/2026-07-25-semana-lanzamiento-nueva-frecuencia.md) — 2026-07-25 · video ancla + 5 shorts, tema "tu frecuencia define tu comportamiento"
 - [Guía campaña Meta Ads Despertate](../OUTPUTS/2026-07-24-guia-campana-meta-despertate.md) — 2026-07-24 · paso a paso para lanzar los 3 creativos en Meta

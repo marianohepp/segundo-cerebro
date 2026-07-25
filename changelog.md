@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-25 — Semana de lanzamiento para Nueva Frecuencia
+- Armada una semana de contenido de arranque para [[nueva-frecuencia]] (canal de YouTube, consciencia y comportamiento): 1 video ancla ("Tu frecuencia actual te está costando algo") + 5 shorts diarios, cada uno con un patrón de comportamiento concreto.
+- Semana nueva, sin atarse a la numeración EP00/EP01 ya escrita (decisión de Mariano). Contenido apoyado en su propio [[marco-ejecucion]] (pregunta filtro, los "tres guías", identidad de "terminar lo que empezás").
+- Guardado en `OUTPUTS/2026-07-25-semana-lanzamiento-nueva-frecuencia.md`.
+- Nota aparte: se exploró el curso de CapCut de Denise Encinas (video de 4h24m) vía navegador — no tiene recursos descargables en la lección, y por su duración no es viable transcribirlo por capturas. Se acordó que Mariano tome notas mientras lo mira y las tire a RAW para procesarlas.
+
 ## 2026-07-25 — Procesado: mentoría PROA con Dalmir
 - **Fuente:** `RAW/GMT20260725-140710_Recording.cc.vtt` (mentoría por calificación, líder Dalmir desde Colombia).
 - **`metodologia-proa.md`** ampliado con los frameworks de Dalmir: "actúa por lo que sabes, no por cómo te sientes"; acompañar en el bajón pidiendo permiso; "la office habla"; calificación = periodo + afiliación; autoempleado → dueño de negocio; vender sueños (no "ingreso extra"); **herramienta #1 "Imaginate"** (de Margarita Patiño); predicar con el ejemplo.
