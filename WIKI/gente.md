@@ -25,6 +25,11 @@ _Última actualización: 2026-07-23_
 - **Vale** — dio una "capa" (capacitación) reciente; referente del equipo.
 - **Buva** y **Lucas** — nombres del "sistema" que se replica ("no inventamos la pólvora").
 - **Silvi, Marce, Jime** — integrantes del equipo que preguntaron en el espacio de coaching (2026-07-23).
+- **Dalmir** — líder top (Colombia/Valledupar), dio la mentoría del 2026-07-25. Frases: "actúa por lo que sabes, no por cómo te sientes"; "el dueño de negocio no está dentro del negocio".
+- **Willy y Belinda** — Black Diamond de Guatemala; de gira por Colombia.
+- **Angie Gluxman** — Blue Diamond pro 3.
+- **Macky (Maqui) Fernández** — Premier líder pro 2; argentina viviendo en Alemania, construyendo equipo en Europa.
+- **Margarita Patiño** — referente; origen de la herramienta "Imaginate" (también dio la mentoría del 2026-07-18).
 
 ## Negocios
 - **Lucas** — presta su CUIT/registro fiscal para [[torque]], factura mientras Mariano vende. Comisión 15–20% + fijo. ⚠️ **Pendiente por resolver**.

@@ -4,6 +4,11 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-25 — Procesado: mentoría PROA con Dalmir
+- **Fuente:** `RAW/GMT20260725-140710_Recording.cc.vtt` (mentoría por calificación, líder Dalmir desde Colombia).
+- **`metodologia-proa.md`** ampliado con los frameworks de Dalmir: "actúa por lo que sabes, no por cómo te sientes"; acompañar en el bajón pidiendo permiso; "la office habla"; calificación = periodo + afiliación; autoempleado → dueño de negocio; vender sueños (no "ingreso extra"); **herramienta #1 "Imaginate"** (de Margarita Patiño); predicar con el ejemplo.
+- **`gente.md`** + Dalmir, Willy y Belinda (Guatemala), Angie Gluxman, Macky Fernández, Margarita Patiño.
+
 ## 2026-07-25 — Campaña Meta armada (borrador) vía navegador
 - Campaña creada en la cuenta correcta **"despertate super bien" (...55252)** — Claude la armó operando Ads Manager con la extensión Chrome (Opción B: Claude configura, Mariano publica).
 - Config: objetivo **Ventas**, **US$ 3/día** (CBO; la cuenta está en USD, no pesos — ojo con esto), puja Volumen más alto. Conjunto: Argentina amplio, pixel `despertatebien.com`, evento **Ver contenido** (pixel frío → se calienta primero, después se pasa a Compra).

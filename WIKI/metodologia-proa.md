@@ -54,5 +54,15 @@ _Última actualización: 2026-07-23 · Fuente: transcripción Zoom de un espacio
 - *"El potencial se ve en la cancha"* (odian la palabra potencial).
 - **Edificar** al invitado y **celebrar cada pasito** como cultura deliberada.
 
+## Frameworks de la mentoría de Dalmir (2026-07-25)
+- **"Actúa por lo que sabes, no por cómo te sientes."** Para el socio que pasa un mal momento (familiar/económico): NO desconectarse del ecosistema, la línea ascendente ni los eventos. El negocio es como un empleo o negocio tradicional: vas con ganas o sin ganas, igual vas. Es responsabilidad. Pregunta clave: *"¿ir al evento te suma o te resta para tu futuro?"*
+- **Acompañar en el bajón pidiendo permiso:** "¿Te parece si mientras te reponés trabajo con tu gente? Para eso somos equipo." + reportar todo para que cuando vuelva esté en contexto. (Refuerza el "pedir permiso" + medir de la sesión anterior.)
+- **"La office habla":** el back-office muestra quién está trabajando de verdad.
+- **Calificación = periodo + afiliación:** podés ser Diamante o superior, pero si no afiliaste ese periodo, **no calificás**. Cambia mes a mes quién está "en la cancha".
+- **De autoempleado → dueño de negocio:** el socio con mentalidad de autoempleado se queda "en las bases" y no se permite soñar más. *"El dueño de negocio no está DENTRO del negocio; está jugando al gol. La idea es salirse del negocio."*
+- **Vender sueños, no "ingreso extra":** la gente entiende solo lo que le hablás. Error de Dalmir: hablar solo de ingreso extra. Cambiar a **abundancia/libertad/sueños** concretos (la lavadora, el viaje con mamá, cambiarle el auto al papá).
+- **🔑 Herramienta #1 — "Imaginate":** (atribuida a Margarita Patiño). *"Imaginate tu vida con 10 mil dólares al mes"* (≈ un Diamante) → dispara la emoción y el sueño. **"Las palabras con emoción anclan."**
+- **Predicar con el ejemplo:** mostrar tus propios sueños/logros (viajes, ayudar a los padres) para que digan "si él puede, yo puedo".
+
 ## Relacionado
 - [[fuxion-proa]] · [[marco-ejecucion]] (coincide fuerte: acción > intención, medir, sistema) · [[proa-crm]] (la "herramienta de medición" que describen es justo lo que el CRM automatiza) · [[evento-alumbra]] · [[gente]]
