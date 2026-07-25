@@ -9,6 +9,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 - **`metodologia-proa.md`** ampliado con los frameworks de Dalmir: "actúa por lo que sabes, no por cómo te sientes"; acompañar en el bajón pidiendo permiso; "la office habla"; calificación = periodo + afiliación; autoempleado → dueño de negocio; vender sueños (no "ingreso extra"); **herramienta #1 "Imaginate"** (de Margarita Patiño); predicar con el ejemplo.
 - **`gente.md`** + Dalmir, Willy y Belinda (Guatemala), Angie Gluxman, Macky Fernández, Margarita Patiño.
 
+## 2026-07-25 — 🚀🎉 CAMPAÑA LANZADA (primer test de Despertate Bien en el aire)
+- **PUBLICADA** la campaña "Despertate - Trafico Test - Jul25" (cuenta ...55252). 3 anuncios: C1 sueño, C2 energía, C3 café — cada uno con su video Veo 3 + su copy propio + URL `https://despertatebien.com/`. Tráfico, $3 USD/día, Argentina amplio, pixel 26395877520024900 conectado.
+- Revisión final OK: los 3 con video y copy correctos, "un solo video" por anuncio (se limpió la imagen de IA que había colado la duplicación).
+- **Hito:** el bloqueante de creativos que frenaba las ventas hace semanas se resolvió de punta a punta EN UN DÍA: generar creativos (Veo 3) → montar (CapCut Pro) → destrabar la tienda (DNS/SSL) → armar y lanzar la campaña.
+- **Seguimiento:** no tocar 48-72h. A los 2-3 días (≈27-28/07) analizar CTR + costo por clic por creativo → escalar ganador, pausar perdedores.
+
 ## 2026-07-25 — Campaña Tráfico: 3 anuncios armados (C1 + 2 copias), falta subir c2/c3
 - Mariano corrigió la URL de destino del C1 a `https://despertatebien.com/`.
 - Claude duplicó el C1 x2 (Duplicar rápidamente, 2 copias) → 3 anuncios en el conjunto. Renombró la 1ra copia a **C2 - Energia**.
