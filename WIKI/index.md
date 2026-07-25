@@ -27,6 +27,7 @@ _Última actualización: 2026-07-23_
 - [[despertate-bien]] — ebook+app de sueño/energía (FOCO); bloqueado por creativos de video
 - [[workflow-cosmos]] — método Cosmos AI (agentes) para validar nicho y generar copy; qué le sirve a Mariano
 - [[recursos-creativos-ia]] — shortlist de videos/apps para producir creativos de video con IA (Veo 3, 100 Ads…)
+- [[research-competencia-ebooks]] — qué ebooks de salud corren en Meta AR; recomendación de próximo nicho (detox/intestino)
 - [[nueva-frecuencia]] — canal de YouTube de consciencia con avatar IA
 - [[planeta-limpio-corsair]] — créditos de reciclaje plástico (despriorizado)
 - [[otros-proyectos]] — madera del hermano + ebook de supervivencia (en pausa)
