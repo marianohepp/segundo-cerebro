@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-25 — Limpieza de cuenta Meta Ads
+- Se revisaron los conjuntos de anuncios en borrador de la cuenta "despertate super bien": 3 en total.
+- **Eliminada** la campaña **"Despertate - Test Creativos - Jul24"** (con el conjunto "AR - Amplio 25-55") — era el resto del primer intento fallido (Advantage+ con mensajes de WhatsApp) que se abandonó a favor de la campaña de Tráfico limpia. Nunca se publicó, cero riesgo.
+- **NO se tocaron** los otros 2 borradores, que son de Mariano de antes: "set1 junio" (conjunto) y "Nuevo conjunto de anuncios de Ventas" (de la campaña "Nueva campaña de Ventas").
+- La campaña activa "Despertate - Trafico Test - Jul25" sigue corriendo bien: 58 visitas, $0,01 por visita, $0,80 gastado hasta el momento.
+
 ## 2026-07-25 — Semana de lanzamiento para Nueva Frecuencia
 - Armada una semana de contenido de arranque para [[nueva-frecuencia]] (canal de YouTube, consciencia y comportamiento): 1 video ancla ("Tu frecuencia actual te está costando algo") + 5 shorts diarios, cada uno con un patrón de comportamiento concreto.
 - Semana nueva, sin atarse a la numeración EP00/EP01 ya escrita (decisión de Mariano). Contenido apoyado en su propio [[marco-ejecucion]] (pregunta filtro, los "tres guías", identidad de "terminar lo que empezás").
