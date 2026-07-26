@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Revisión y corrección del deck de Alumbra (v2)
+- Mariano trajo una estructura de 5 diapositivas generada con Gemini para la capacitación de Alumbra.
+- Revisada contra [[metodologia-proa]] (las 11 mentorías, en especial Dalmir) y [[marco-ejecucion]]: se detectó una inconsistencia de dato (15.000 vs. 20.000 asistentes — el correcto es 20.000, confirmado en la propia capacitación de Mariano del 04/06), dos datos sin fuente confirmada (año de inicio "2022", fecha "Noviembre") marcados para que Mariano los verifique, y dos elementos de tono que chocan con la cultura real de PROA: "venta agresiva" (contradice "pedir permiso, no perseguir" de Dalmir) y una urgencia de "cierre en 24hs" sin confirmar si es real.
+- Se agregó una diapositiva nueva con el reencuadre "la energía dura poco, lo que importa es lo que te resuena" (la propia voz de Mariano del 04/06), que la propuesta de Gemini no incluía.
+- Guardado en `OUTPUTS/2026-07-26-deck-alumbra-v2-corregido.md`.
+
 ## 2026-07-25 — Limpieza de cuenta Meta Ads
 - Se revisaron los conjuntos de anuncios en borrador de la cuenta "despertate super bien": 3 en total.
 - **Eliminada** la campaña **"Despertate - Test Creativos - Jul24"** (con el conjunto "AR - Amplio 25-55") — era el resto del primer intento fallido (Advantage+ con mensajes de WhatsApp) que se abandonó a favor de la campaña de Tráfico limpia. Nunca se publicó, cero riesgo.
