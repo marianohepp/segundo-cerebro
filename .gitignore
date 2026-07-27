@@ -34,3 +34,6 @@ CEREBRO-PRIVADO-LOCAL/
 *.wav
 *.mp3
 *.m4v
+
+# PDFs pesados (materiales oficiales con muchas imágenes): quedan en Drive, NO en git
+*.pdf
