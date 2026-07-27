@@ -2,15 +2,20 @@
 
 _Fecha: 2026-07-26 · Reemplaza el enfoque de "guion cerrado" por una facilitación con preguntas · Tono: amigable, que la gente concluya sola_
 
-> Cambio de enfoque total respecto a v1-v4: **no es un pitch, es una conversación que vos guiás con preguntas.** Los números (crecimiento, fechas, "sin precedentes") se **mencionan pero se derivan** a tu capacitación de [abril/junio — confirmar], no se repiten acá. El objetivo de esta sesión es que la gente llegue a su propia conclusión, no que la convenzas vos.
+> Cambio de enfoque total respecto a v1-v4: **no es un pitch, es una conversación que vos guiás con preguntas.** Los números (crecimiento, fechas, "sin precedentes") se **mencionan pero se derivan** a "Estrategia Alumbra" (tu capacitación del 9 de abril — ver [[estrategia-alumbra-abril]]), no se repiten acá. El objetivo de esta sesión es que la gente llegue a su propia conclusión, no que la convenzas vos.
 
 ---
+
+## Diapositiva 1 — Portada
+- **Título:** ALUMBRA
+- **Subtítulo:** Tu Próximo Destino
+- 📷 Logo oficial de Alumbra sobre fondo oscuro (mismo criterio que versiones anteriores).
 
 ## Apertura (2-3 min) — el mismo reencuadre de siempre, tu voz real
 No arranques con el pitch. Arrancá con el mismo honesto que ya usás:
 > *"No te vengo a hablar de la energía de Alumbra — esa dura poco. Te vengo a hacer un par de preguntas, y quiero que las respondan ustedes, no yo."*
 
-Mencioná de pasada que hay data de contexto (crecimiento, fechas, magnitud del evento) en tu capacitación anterior — **sin repetirla acá**: *"Si quieren los números —cuánta gente va, por qué esta edición es distinta— ya lo charlamos en la capacitación que di [en abril/junio], la tienen grabada. Hoy quiero ir a otro lado."*
+Mencioná de pasada que hay data de contexto (crecimiento, fechas, magnitud del evento) en tu capacitación anterior — **sin repetirla acá**: *"Si quieren los números —cuánta gente va, por qué esta edición es distinta— ya lo charlamos en 'Estrategia Alumbra', la capacitación que di en abril, la tienen grabada. Hoy quiero ir a otro lado."*
 
 ---
 

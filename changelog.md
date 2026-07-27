@@ -4,6 +4,10 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Portada definida: "ALUMBRA" / "Tu Próximo Destino"
+- Mariano definió el título y subtítulo final de la portada del deck v5: Título **ALUMBRA**, Subtítulo **Tu Próximo Destino**. Agregado como Diapositiva 1 explícita al deck.
+- De paso, resuelto el placeholder `[abril/junio — confirmar]`: la derivación de números es a "Estrategia Alumbra" (9 de abril).
+
 ## 2026-07-26 — Resuelta la discrepancia: eran 2 capacitaciones distintas
 - Mariano confirmó y subió la transcripción faltante: `GMT20260409-000008_Recording (1).cc.vtt` — "Estrategia Alumbra", 9 de abril 2026. No era un mes mal recordado: es una capacitación real y distinta de la del 4 de junio.
 - **Nuevo `estrategia-alumbra-abril.md`:** fechas confirmadas (3-10 nov ventana PROA, 3-5 previa+mentorías, 6-8 Alumbra, 9 cascada), la estrategia financiera completa de 3 ciclos (vender 50 cajas + afiliar 5 personas por ciclo → ~$5.030.000 ARS en 3 meses, de los cuales ~$1.400.000 cubren el viaje completo), y un dato personal fuerte: **Mariano fue el abanderado argentino en el Alumbra del año pasado**.
