@@ -4,6 +4,10 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Deck v6: guion completo palabra por palabra + espacios para fotos
+- Mariano pidió el guion completo de cada diapositiva (no solo bullets) y espacios marcados para fotos propias — reveló que noviembre será su **4to Alumbra**, dato de autoridad fuerte que se sumó a la apertura.
+- Nuevo `OUTPUTS/2026-07-26-deck-alumbra-v6-guion-completo.md`: guion hablado completo de las 6 diapositivas + 8 espacios de foto marcados con sugerencia de contenido para cada uno (collage de sus 3 Alumbras anteriores para el bloque de "ya fueron", equipo en la previa/cascada para el bloque opcional, etc.).
+
 ## 2026-07-26 — Portada definida: "ALUMBRA" / "Tu Próximo Destino"
 - Mariano definió el título y subtítulo final de la portada del deck v5: Título **ALUMBRA**, Subtítulo **Tu Próximo Destino**. Agregado como Diapositiva 1 explícita al deck.
 - De paso, resuelto el placeholder `[abril/junio — confirmar]`: la derivación de números es a "Estrategia Alumbra" (9 de abril).
