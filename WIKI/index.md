@@ -50,6 +50,7 @@ _Última actualización: 2026-07-23_
 - [Deck Alumbra v4 — datos confirmados](../OUTPUTS/2026-07-26-deck-alumbra-v4-datos-confirmados.md) — 2026-07-26 · crecimiento real 10k→20k, fundador Álvaro Zúñiga, "Re-EvoluXion", "sin precedentes" oficial
 - [Deck Alumbra v5 — formato preguntas](../OUTPUTS/2026-07-26-deck-alumbra-v5-formato-preguntas.md) — 2026-07-26 · cambio a formato de conversación guiada por preguntas, sin números ni presión, tono amigable
 - [Deck Alumbra v6 — guion completo](../OUTPUTS/2026-07-26-deck-alumbra-v6-guion-completo.md) — 2026-07-26 · guion palabra por palabra de las 6 diapositivas + 8 espacios marcados para fotos, "mi 4to Alumbra"
+- [Alumbra v6 — texto para Canva](../OUTPUTS/2026-07-26-alumbra-v6-canva-copypaste.md) — 2026-07-26 · texto final listo para pegar en Canva, 6 slides formato pregunta
 - [Plan de lanzamiento creativos Despertate](../OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md) — 2026-07-24 · 3 creativos Veo 3 + copy + estructura de campaña de test
 - [Semana de lanzamiento Nueva Frecuencia](../OUTPUTS/2026-07-25-semana-lanzamiento-nueva-frecuencia.md) — 2026-07-25 · video ancla + 5 shorts, tema "tu frecuencia define tu comportamiento"
 - [Guía campaña Meta Ads Despertate](../OUTPUTS/2026-07-24-guia-campana-meta-despertate.md) — 2026-07-24 · paso a paso para lanzar los 3 creativos en Meta
