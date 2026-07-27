@@ -4,6 +4,10 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Cierre v5: Grupo Alumbra 2026 + discrepancia de fecha a resolver
+- Mariano confirmó que al cierre de la capacitación anuncia el **Grupo Alumbra 2026** (momentum para quienes ya decidieron ir a Lima en noviembre) — incorporado al cierre del deck v5, con tono no-presionante ("es para los que ya se subieron a la idea", no un cierre de venta forzado).
+- ⚠️ **Discrepancia sin resolver:** Mariano dice que la capacitación de referencia se llama "Estrategia Alumbra" y fue el **8 de abril**, pero el archivo procesado en el cerebro (`GMT20260604-160822_Recording.cc.vtt`, fuente del reencuadre "la energía dura poco") está fechado por Zoom el **4 de junio**. Puede ser el mismo evento con el mes mal recordado, o una sesión distinta de abril sin procesar. Pendiente que Mariano confirme o pase la grabación correcta antes de derivar gente a "la capacitación de abril" en la sala.
+
 ## 2026-07-26 — Deck Alumbra v5: giro total de formato (de pitch a preguntas)
 - Mariano compartió un segundo guion de Gemini (script minuto a minuto, tono agresivo tipo "cierre de venta") pero aclaró que era solo contexto/inspiración — no le gustaron varias cosas, en particular la afirmación no verificada de que la ubicación en la arena depende del rango alcanzado (marcado como riesgo alto: dato operativo específico sin fuente).
 - **Contexto nuevo clave:** el equipo de Mariano viaja días antes de Alumbra para armar su propio evento privado con mentorías, y después hacen "la cascada" para bajar la info a quien no viajó — por eso nadie compra pasaje con anticipación. Agregado a `evento-alumbra.md`.

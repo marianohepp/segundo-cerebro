@@ -44,8 +44,10 @@ Vos me contaste que además de las 3 fechas oficiales, ustedes arman su propio e
 ## Cierre (2-3 min) — sin presión artificial, coherente con el tono amigable
 - No pidas "capturas de pantalla de compra hoy" (eso es del Gemini que no te gustó).
 - Cerrá invitando, no empujando:
-  > *"No les voy a decir que se suban al avión ya. Les voy a pedir que, con lo que escucharon hoy de sus compañeros y con lo que ustedes mismos respondieron, se hagan la pregunta en serio esta semana. Si necesitan hablar del cómo —plata, tiempo, lo que sea— para eso estoy."*
-- CTA suave: "Quien quiera hablarlo en privado esta semana, me escribe."
+  > *"No les voy a decir que se suban al avión ya. Les voy a pedir que, con lo que escucharon hoy de sus compañeros y con lo que ustedes mismos respondieron, se hagan la pregunta en serio esta semana."*
+- **Anuncio del Grupo Alumbra 2026** (esto sí es concreto, no presión artificial — es un espacio real para quien ya decidió):
+  > *"Y para los que ya sienten que la respuesta es sí: armamos el Grupo Alumbra 2026. Ahí vamos a generar el momentum juntos, los que decidimos estar en Lima en noviembre — coordinar, motivarnos, ir armando el viaje en equipo. No es para presionar a nadie a decidir hoy; es para los que ya se subieron a la idea."*
+- CTA: "Quien decida que sí, se suma al grupo. Quien todavía lo está pensando, hablamos esta semana en privado."
 
 ---
 
