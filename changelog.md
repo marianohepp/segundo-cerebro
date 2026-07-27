@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Primer snapshot de resultados: los 3 creativos activos
+- Mariano publicó C1 y C3 (que habían quedado atascados "en borrador"). Ahora los 3 anuncios de la campaña de Tráfico están **Activa**.
+- Snapshot: C1-Sueño 26 visitas ($0,01/visita), C3-Café 33 visitas ($0,01/visita), C2-Energía 203 visitas ($0,02/visita). Total $4,25 gastados, 0 ventas en Shopify aún (esperable, bajo spend + optimización a "Ver contenido").
+- C1/C3 recién arrancaron a entregar → todavía no es comparación justa contra C2 (que lleva más tiempo). Se acordó no tocar la campaña 48-72h más desde que C1/C3 empezaron a entregar de verdad, y recién ahí comparar costo por visita para definir creativo ganador.
+- Actualizado `estado-actual.md` con el snapshot.
+
 ## 2026-07-26 — Revisión y corrección del deck de Alumbra (v2)
 - Mariano trajo una estructura de 5 diapositivas generada con Gemini para la capacitación de Alumbra.
 - Revisada contra [[metodologia-proa]] (las 11 mentorías, en especial Dalmir) y [[marco-ejecucion]]: se detectó una inconsistencia de dato (15.000 vs. 20.000 asistentes — el correcto es 20.000, confirmado en la propia capacitación de Mariano del 04/06), dos datos sin fuente confirmada (año de inicio "2022", fecha "Noviembre") marcados para que Mariano los verifique, y dos elementos de tono que chocan con la cultura real de PROA: "venta agresiva" (contradice "pedir permiso, no perseguir" de Dalmir) y una urgencia de "cierre en 24hs" sin confirmar si es real.
