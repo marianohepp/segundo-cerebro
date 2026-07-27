@@ -33,5 +33,11 @@ _Última actualización: 2026-07-23_
 ## Reencuadre clave (de la sesión del 04/06)
 La energía de un evento **dura poco** ("¿querés energía? andá a una fiesta"). Lo que hace distinto a Alumbra es que ahí **se dice algo que te resuena y te muestra un potencial que no te veías**. El cómo capitalizarlo: parar y preguntarse *"¿qué me tocó y por qué?"* para volver con un **porqué**, no solo con adrenalina. → Detalle en `OUTPUTS/2026-07-24-deck-capacitacion-alumbra.md`.
 
+## El sistema propio del equipo de Mariano (no es solo ir a Alumbra)
+- **Antes del evento oficial:** viajan días antes para armar su **propio evento privado con mentorías** para el equipo.
+- **Después:** hacen **"la cascada"** — decantan/bajan toda la información recibida en los 3 días de Alumbra al resto del equipo que no viajó.
+- Por esto nadie del equipo compra el pasaje con mucha anticipación — el viaje real empieza antes de las fechas oficiales.
+- Encaja con la cultura real de PROA ([[metodologia-proa]]): "volver siempre al sistema", tener un proceso propio y repetible en vez de improvisar.
+
 ## Relacionado
 - [[fuxion-proa]] · [[marco-ejecucion]] · [[estado-actual]] · [[metodologia-proa]] · [[gente]]

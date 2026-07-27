@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Deck Alumbra v5: giro total de formato (de pitch a preguntas)
+- Mariano compartió un segundo guion de Gemini (script minuto a minuto, tono agresivo tipo "cierre de venta") pero aclaró que era solo contexto/inspiración — no le gustaron varias cosas, en particular la afirmación no verificada de que la ubicación en la arena depende del rango alcanzado (marcado como riesgo alto: dato operativo específico sin fuente).
+- **Contexto nuevo clave:** el equipo de Mariano viaja días antes de Alumbra para armar su propio evento privado con mentorías, y después hacen "la cascada" para bajar la info a quien no viajó — por eso nadie compra pasaje con anticipación. Agregado a `evento-alumbra.md`.
+- **Decisión de formato:** Mariano pidió tono amigable, formato de preguntas (no guion cerrado) para que la gente llegue sola a la conclusión — con preguntas separadas para quienes ya fueron a un Alumbra (prueba social real) y quienes nunca fueron (que identifiquen su propio freno). Los números se mencionan pero se derivan a su capacitación anterior (¿abril o junio? — pendiente de confirmar cuál).
+- Nuevo `OUTPUTS/2026-07-26-deck-alumbra-v5-formato-preguntas.md`: apertura con reencuadre, bloque de preguntas para los que ya fueron, bloque para los que nunca fueron, bloque opcional sobre el sistema pre-evento+cascada (pendiente confirmar si se comparte en la sala), cierre sin presión.
+
 ## 2026-07-26 — Deck Alumbra v4: datos oficiales confirmados (crecimiento, fundador, Re-EvoluXion)
 - Mariano pasó un resumen (con fuentes citadas de Facebook/Instagram oficiales de FuXion) sobre lo que dice Álvaro Zúñiga Benavides (fundador de FuXion) sobre Alumbra 2026.
 - Datos nuevos confirmados: **Alumbra 2025 tuvo +10.000 personas, Alumbra 2026 va por +20.000** (duplica convocatoria) — dato de crecimiento real y citable. FuXion usa oficialmente "sin precedentes" para esta edición. El evento arranca la etapa "FuXion Re-EvoluXion". Sitio oficial de verificación: `eventosfuxion.com/alumbra/`.
