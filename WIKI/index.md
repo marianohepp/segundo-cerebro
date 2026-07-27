@@ -45,6 +45,7 @@ _Última actualización: 2026-07-23_
 - [Patrones de las capacitaciones PROA](../OUTPUTS/patron-capacitaciones-proa-2026-07-24.md) — 2026-07-24 · análisis de 11 sesiones: tipos de espacio, frases-marca, moldes reutilizables
 - [Alumbra — texto para Canva](../OUTPUTS/2026-07-24-alumbra-canva-copypaste.md) — 2026-07-24 · 10 slides en formato copy-paste para armar en Canva
 - [Deck Alumbra v2 corregido](../OUTPUTS/2026-07-26-deck-alumbra-v2-corregido.md) — 2026-07-26 · revisión de estructura de Gemini: dato corregido, urgencia falsa sacada, reencuadre re-incorporado
+- [Deck Alumbra v3 — historia e imágenes](../OUTPUTS/2026-07-26-deck-alumbra-v3-historia-imagenes.md) — 2026-07-26 · recap histórico, "se tira la casa por la ventana" (Margarita Pasos), dirección de imágenes por slide
 - [Plan de lanzamiento creativos Despertate](../OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md) — 2026-07-24 · 3 creativos Veo 3 + copy + estructura de campaña de test
 - [Semana de lanzamiento Nueva Frecuencia](../OUTPUTS/2026-07-25-semana-lanzamiento-nueva-frecuencia.md) — 2026-07-25 · video ancla + 5 shorts, tema "tu frecuencia define tu comportamiento"
 - [Guía campaña Meta Ads Despertate](../OUTPUTS/2026-07-24-guia-campana-meta-despertate.md) — 2026-07-24 · paso a paso para lanzar los 3 creativos en Meta

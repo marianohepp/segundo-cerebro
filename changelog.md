@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Deck Alumbra v3: historia, diferenciador y dirección de imágenes
+- Mariano pidió sumar imágenes, un recap de la historia de Alumbra, y remarcar que este año "se tira la casa por la ventana": el año pasado llevaron a **Margarita Pasos** y varios referentes de desarrollo personal, además de los líderes de la industria.
+- Se agregaron 2 diapositivas nuevas (historia de Alumbra + "por qué este no es un Alumbra más"), quedando en 7. Los datos históricos específicos sin fuente confirmada quedaron marcados `[confirmar]` (no se inventaron años/ediciones).
+- Se agregó dirección de imagen por cada una de las 7 diapositivas (opción foto real + prompt de IA de respaldo).
+- Guardado en `OUTPUTS/2026-07-26-deck-alumbra-v3-historia-imagenes.md`.
+
 ## 2026-07-26 — Primer snapshot de resultados: los 3 creativos activos
 - Mariano publicó C1 y C3 (que habían quedado atascados "en borrador"). Ahora los 3 anuncios de la campaña de Tráfico están **Activa**.
 - Snapshot: C1-Sueño 26 visitas ($0,01/visita), C3-Café 33 visitas ($0,01/visita), C2-Energía 203 visitas ($0,02/visita). Total $4,25 gastados, 0 ventas en Shopify aún (esperable, bajo spend + optimización a "Ver contenido").
