@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Deck Alumbra v4: datos oficiales confirmados (crecimiento, fundador, Re-EvoluXion)
+- Mariano pasó un resumen (con fuentes citadas de Facebook/Instagram oficiales de FuXion) sobre lo que dice Álvaro Zúñiga Benavides (fundador de FuXion) sobre Alumbra 2026.
+- Datos nuevos confirmados: **Alumbra 2025 tuvo +10.000 personas, Alumbra 2026 va por +20.000** (duplica convocatoria) — dato de crecimiento real y citable. FuXion usa oficialmente "sin precedentes" para esta edición. El evento arranca la etapa "FuXion Re-EvoluXion". Sitio oficial de verificación: `eventosfuxion.com/alumbra/`.
+- Actualizado `evento-alumbra.md` con estos datos. Nuevo `OUTPUTS/2026-07-26-deck-alumbra-v4-datos-confirmados.md` que reemplaza varios `[confirmar]` de la v3 por datos reales — solo quedan pendientes la fecha exacta del evento y el año personal de inicio de Mariano en Fuxion.
+- Se descartó explorar el link de TikTok que había pasado Mariano (contenido de un tercero, menos confiable/más riesgo de derechos) a favor de esta fuente oficial mejor sourceada.
+
 ## 2026-07-26 — Deck Alumbra v3: historia, diferenciador y dirección de imágenes
 - Mariano pidió sumar imágenes, un recap de la historia de Alumbra, y remarcar que este año "se tira la casa por la ventana": el año pasado llevaron a **Margarita Pasos** y varios referentes de desarrollo personal, además de los líderes de la industria.
 - Se agregaron 2 diapositivas nuevas (historia de Alumbra + "por qué este no es un Alumbra más"), quedando en 7. Los datos históricos específicos sin fuente confirmada quedaron marcados `[confirmar]` (no se inventaron años/ediciones).

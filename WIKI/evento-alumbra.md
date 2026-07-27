@@ -5,10 +5,20 @@
 _Última actualización: 2026-07-23_
 
 ## Qué es
-- **Evento anual de Fuxion** en **Perú**, por los **20 años** de la compañía.
-- La empresa armó un **estadio propio** para **20.000 personas**.
+- **Evento anual de Fuxion** en **Lima, Perú** (lugar de origen de la compañía), por los **20 años**.
+- La empresa armó un **estadio propio** para **más de 20.000 personas**.
 - Reúne a **líderes de los 37 países** donde está la marca.
 - Es el mismo evento que en [[fuxion-proa]] figura como **"Alumbra 2026 (Lima, Perú)"**.
+- **Fundador:** Álvaro Zúñiga Benavides, presidente fundador de FuXion — es quien comunica públicamente la importancia de este Alumbra.
+- Marca el arranque de una nueva etapa de la compañía llamada **"FuXion Re-EvoluXion"**.
+
+## Crecimiento real (dato citable, no hype genérico)
+- **Alumbra 2025** (edición anterior): **más de 10.000** personas.
+- **Alumbra 2026** (este año, 20° aniversario): **más de 20.000** personas → prácticamente **duplica** la convocatoria del año anterior.
+- FuXion usa oficialmente la palabra **"sin precedentes"** para esta edición (branding propio de la empresa, no exageración de Mariano).
+- El año pasado (Alumbra 2025), además de líderes de la industria, subieron al escenario **Margarita Pasos** y varios referentes del desarrollo personal.
+- Hay **co-capacitadores internacionales confirmados** para 2026 (nombres puntuales sin confirmar acá — ver sitio oficial).
+- **Fuente/verificación:** sitio oficial `eventosfuxion.com/alumbra/` (etapas de venta y precios promocionales por las dos décadas). _(Datos de crecimiento y citas de Zúñiga vía búsqueda con IA citando posts oficiales de Facebook/Instagram de FuXion, 2026-07-26 — confirmar fecha exacta del evento en el sitio oficial.)_
 
 ## Capacitación de Mariano (acción con fecha)
 - **Entrega:** el **miércoles próximo**. Duración: **30 min máx**. Formato: **Canva** (10 diapositivas).
