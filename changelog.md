@@ -4,6 +4,12 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-26 — Resuelta la discrepancia: eran 2 capacitaciones distintas
+- Mariano confirmó y subió la transcripción faltante: `GMT20260409-000008_Recording (1).cc.vtt` — "Estrategia Alumbra", 9 de abril 2026. No era un mes mal recordado: es una capacitación real y distinta de la del 4 de junio.
+- **Nuevo `estrategia-alumbra-abril.md`:** fechas confirmadas (3-10 nov ventana PROA, 3-5 previa+mentorías, 6-8 Alumbra, 9 cascada), la estrategia financiera completa de 3 ciclos (vender 50 cajas + afiliar 5 personas por ciclo → ~$5.030.000 ARS en 3 meses, de los cuales ~$1.400.000 cubren el viaje completo), y un dato personal fuerte: **Mariano fue el abanderado argentino en el Alumbra del año pasado**.
+- Resuelta también la aparente contradicción 15.000 vs 20.000 asistentes: no es error, es crecimiento real entre abril y julio (por eso construyeron un estadio propio).
+- Actualizado `evento-alumbra.md` como ficha central: ahora enlaza a las 2 capacitaciones existentes (abril=números/estrategia, junio=reencuadre) y a la nueva v5 en construcción (preguntas), dejando claro qué contenido vive en cada una.
+
 ## 2026-07-26 — Cierre v5: Grupo Alumbra 2026 + discrepancia de fecha a resolver
 - Mariano confirmó que al cierre de la capacitación anuncia el **Grupo Alumbra 2026** (momentum para quienes ya decidieron ir a Lima en noviembre) — incorporado al cierre del deck v5, con tono no-presionante ("es para los que ya se subieron a la idea", no un cierre de venta forzado).
 - ⚠️ **Discrepancia sin resolver:** Mariano dice que la capacitación de referencia se llama "Estrategia Alumbra" y fue el **8 de abril**, pero el archivo procesado en el cerebro (`GMT20260604-160822_Recording.cc.vtt`, fuente del reencuadre "la energía dura poco") está fechado por Zoom el **4 de junio**. Puede ser el mismo evento con el mes mal recordado, o una sesión distinta de abril sin procesar. Pendiente que Mariano confirme o pase la grabación correcta antes de derivar gente a "la capacitación de abril" en la sala.
