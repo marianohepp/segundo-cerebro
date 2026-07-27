@@ -24,7 +24,7 @@ _Última actualización: 2026-07-23 · Fuente: transcripción Zoom de un espacio
 - Antes, preguntar **el porqué** del socio ("querés esto, ¿para qué?") para anclar el objetivo a un motivo real.
 
 ## Plan de 90 días — los 3 focos del líder
-1. **PRO 1K** (plata rápida y concreta). Contar cuántos socios PRO 1K hay en **toda la descendencia**, no solo directos. El PRO 1K "lleva un palo extra al hogar todos los meses" (~$1.000.000 ARS / USD 1.000 / €1.000). Es plata de venta directa — "ni el tío amargado en la sobremesa puede decir que es piramidal", porque no depende de afiliar a nadie.
+1. **PRO 1K** (plata rápida y concreta). Contar cuántos socios PRO 1K hay en **toda la descendencia**, no solo directos. El PRO 1K "lleva un palo extra al hogar todos los meses" (~$1.000.000 ARS / USD 1.000 / €1.000). Es plata de venta directa — "ni el tío amargado en la sobremesa puede decir que es piramidal", porque no depende de afiliar a nadie. → El mecanismo exacto (50 cajas por período = ~$1.000.000) está documentado en [[plan-de-accion-proa]].
 2. **Presentaciones** (no tanto afiliaciones). Meta a 90 días: un socio **emancipado y autónomo que presente solo** = negocio en libertad. Cada socio nuevo abre **~300 contactos nuevos** → agenda fresca. En **40 presentaciones** encontrás 2 futuros diamantes.
 3. **Duplicación / conexión al ecosistema PROA**. Medir cuánta gente conectás a los espacios de PROA. "La plata sola es plata vacía": la fidelización viene de **sentirse parte de un propósito** más grande.
 

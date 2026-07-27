@@ -4,6 +4,13 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-07-27 — Procesado: Plan de Acción PROA (documento de onboarding completo)
+- Mariano bajó sin querer el PDF oficial `RAW/PDA A4.pdf` (27 páginas, 58MB) — el "Plan de Acción" que se le da a cada socio nuevo de PROA. Instalados `pypdf`/`pdfplumber` para extraer el texto (el Read tool necesitaba `poppler`, no instalado).
+- **Housekeeping:** agregado `*.pdf` al `.gitignore` (mismo criterio que audio/video — quedan en Drive, no en git) y destrackeado el PDF ya commiteado.
+- **Nuevo `plan-de-accion-proa.md`:** identidad PROA (3E, color naranja, simbolismo), metas personales, las 3 metas de venta (9/12/25 cajas), las 3 acciones simples (Estrategia Detox de 13 personas, Webinar de 30 personas, Contacto personalizado), franquicias y Fast Track, y **el patrón central 50 cajas + 5 afiliaciones = objetivo PROA (viaje internacional)**.
+- **Conexión clave encontrada:** este patrón de 50 cajas+5 afiliaciones es EXACTAMENTE el mismo que aparece repetido ciclo a ciclo en [[estrategia-alumbra-abril]] — no es una estrategia nueva para Alumbra, es el sistema base de onboarding aplicado repetidamente. También resuelve una referencia que quedaba suelta en [[metodologia-proa]] (el "PRO" que menciona Dalmir).
+- Cross-linkeado desde `fuxion-proa.md` y `metodologia-proa.md`.
+
 ## 2026-07-26 — Texto final para Canva (v6)
 - Nuevo `OUTPUTS/2026-07-26-alumbra-v6-canva-copypaste.md`: las 6 diapositivas en formato mínimo (solo lo que va en pantalla), listo para pegar en Canva. El guion hablado completo queda en el archivo v6 aparte, para uso en vivo.
 

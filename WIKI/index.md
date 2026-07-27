@@ -22,6 +22,7 @@ _Última actualización: 2026-07-23_
 - [[sofi-agente-wp]] — agente IA de WhatsApp que califica leads
 - [[evento-alumbra]] — evento anual de Fuxion en Perú (20 años); capacitación de Mariano el miércoles
 - [[metodologia-proa]] — cómo se lidera y acompaña socios en PROA (acción>resultado, plan>meta, sistema)
+- [[plan-de-accion-proa]] — el documento oficial de onboarding: metas, 3 acciones simples, franquicias, el patrón 50 cajas+5 afiliaciones
 
 ## 📱 Productos digitales
 - [[despertate-bien]] — ebook+app de sueño/energía (FOCO); bloqueado por creativos de video

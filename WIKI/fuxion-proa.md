@@ -23,7 +23,7 @@ _Última actualización: 2026-07-23_
 - Guiones TikTok/IG (4 tipos de persuasión).
 - Sistema completo de conversación por WhatsApp + **calendario evergreen de 30 días** para grupo "Energía Sostenida".
 - Pitch de negocio de 20 min para Zoom.
-- Sistema de onboarding duplicable.
+- Sistema de onboarding duplicable → ver [[plan-de-accion-proa]] (el documento completo, 27 páginas: metas, 3 acciones simples, franquicias, recursos).
 - **CRM HTML con localStorage** → evolucionó a [[proa-crm]].
 - Calendario de contenido de 90 días (basado en curso de Alex Analiza).
 - Guía de prospección y cierres; guía de límites (venta ética); mapa organizacional; funnel psicológico de venta.
