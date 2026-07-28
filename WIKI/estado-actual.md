@@ -5,7 +5,7 @@
 _Última actualización: 2026-07-23_
 
 ## ⏰ Fechas y deadlines
-- **Miércoles próximo** — dar la **capacitación del [[evento-alumbra]]** (deck Canva, 10 slides, 30 min) para motivar al equipo a ir al evento anual de Fuxion en Perú.
+- **🔴 MAÑANA (28/07)** — dar la **capacitación de [[evento-alumbra]]** (v6, formato preguntas, 6 slides + guion completo). HOY hay que: reunir las 8 fotos, armar en Canva (copy-paste ya listo), decidir si va la slide 5 (cascada), y practicar. Ver `OUTPUTS/2026-07-26-deck-alumbra-v6-guion-completo.md` + `OUTPUTS/2026-07-26-alumbra-v6-canva-copypaste.md`.
 - **28-ago-2026** — cierre del ciclo de 90 días. Meta doble: **rango Diamante** en [[fuxion-proa]] + **primeras ventas del ebook** ([[despertate-bien]]).
 
 ## 🔴 Bloqueantes activos (frenan resultado hoy)
