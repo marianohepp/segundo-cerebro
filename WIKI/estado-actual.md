@@ -5,7 +5,7 @@
 _Última actualización: 2026-07-23_
 
 ## ⏰ Fechas y deadlines
-- **🔴 MAÑANA (28/07)** — dar la **capacitación de [[evento-alumbra]]** (v6, formato preguntas, 6 slides + guion completo). HOY hay que: reunir las 8 fotos, armar en Canva (copy-paste ya listo), decidir si va la slide 5 (cascada), y practicar. Ver `OUTPUTS/2026-07-26-deck-alumbra-v6-guion-completo.md` + `OUTPUTS/2026-07-26-alumbra-v6-canva-copypaste.md`.
+- **🔴 MAÑANA (28/07)** — dar la **capacitación de [[evento-alumbra]]**. Cambio de plan 27/07: se reemplaza la v6 (preguntas) por la **v7 "Estrategia Alumbra actualizada"** (números/ciclos recalculados: hoy ciclo 8, quedan ciclos 9-10-11parcial hasta viajar el 3/11). PDF listo en `OUTPUTS/2026-07-27-estrategia-alumbra-v7.pdf`. Pendiente: confirmar cifras en pesos contra la office, reunir fotos, decidir si suma el bloque cascada, y practicar.
 - **28-ago-2026** — cierre del ciclo de 90 días. Meta doble: **rango Diamante** en [[fuxion-proa]] + **primeras ventas del ebook** ([[despertate-bien]]).
 
 ## 🔴 Bloqueantes activos (frenan resultado hoy)
