@@ -19,8 +19,7 @@ _Última actualización: 2026-10-29_
 - 2026-10-28 — Multimedia vieja de H movida a D:\ARCHIVO H.
 
 ## Hilos abiertos
-- WIKI/estado-actual.md está desactualizado (última fecha 2026-08-15) y hay cambios
-  sin commitear en WIKI/ y changelog.md de una sesión anterior: revisar y guardar.
+- WIKI/estado-actual.md está desactualizado (última fecha 2026-08-15).
 - RAW/ tiene grabaciones de Zoom (GMT2026…) sin procesar.
 - Robot Meta Ads: falta token y cuenta publicitaria.
 - Embudo PROA: sin reglas publicadas ni sitio en Netlify.
