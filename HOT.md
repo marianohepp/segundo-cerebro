@@ -6,6 +6,9 @@
 _Última actualización: 2026-10-29_
 
 ## Ahora
+- **Foco 2026-10-30:** (1) subir contenido de Fuxion (@emprendersaludable / TikTok);
+  (2) arrancar el test de Meta del lote 1 de Eco Alacena (20 anuncios,
+  CEREBRO EBOOKS/PRODUCTOS/la-biblia-de-la-limpieza-natural/creativos/lote-1).
 - Cerebro: sumado el kit de mantenimiento de Lucas (LBDP) — HOT.md, LECCIONES/,
   JARDIN.md, /orden /aprende /jardin y 3 skills globales. Ver [[mantenimiento-cerebro]].
 - Fuxion: meta Premier Leader en el periodo 10 (sem 37-40/2026), DV4 10.178 → 15.000.
