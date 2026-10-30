@@ -4,6 +4,11 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-10-30 — Kit de publicación de las 12 piezas del test de alcance (Fuxion)
+- Revisadas contra `H:\SISTEMA FUXION\complianceeglas.md`: 6 frases corregidas (A4 "más fácil", A6 "sin excepción", claims fisiológicos en B2/B3/B6) y disclaimers al pie de cada descripción.
+- **B5 marcado de riesgo alto** (describe un síntoma clínico): dos opciones para que decida Mariano, una suavizada y una nueva del pilar 4 (pausas y movimiento), que no tenía pieza.
+- Entregable en `H:\INBIZ EMPRENDER SALUDABLE\KIT PUBLICACION - 12 PIEZAS TEST ALCANCE.md`. Enlazado desde [[curso-alex-analiza]].
+
 ## 2026-10-29 — Sumado el kit de mantenimiento "El Gordo" (La Biblia de los Productos Digitales)
 - **Fuente:** masterclass de Lucas (video OBS `D:ideos de obs6-10-29_20-22-53.mp4`, 44 slides) + kit `cerebro-lbdp-inicial.zip`.
 - **Decisión de Mariano:** no armar un cerebro nuevo; sumar el kit a este.

@@ -16,6 +16,8 @@ _Última actualización: 2026-10-29_
 - Productos digitales: tienda Impultienda "La Biblia de la Limpieza Natural".
 
 ## Decisiones recientes
+- 2026-10-30 — Contenido Fuxion de hoy: las 12 piezas del test de alcance. Kit en
+  H:\INBIZ EMPRENDER SALUDABLE. Falta: elegir B5, fijar umbrales y grabar. (fuente: yo)
 - 2026-10-29 — No se arma un cerebro nuevo: el kit LBDP se suma a SEGUNDO CEREBRO.
   CEREBRO EBOOKS sigue separado (vendible/privado). (fuente: yo, sesión 2026-10-29)
 - 2026-10-28 — Magic Funnel (Jorge León): copiar la estrategia, no comprar.
