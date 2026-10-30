@@ -122,7 +122,7 @@ El curso usa la palabra "método" para **dos cosas diferentes**. No confundirlas
 - [x] **Perfiles definidos (2026-10-08):** TikTok **"Emprende con Mariano"** = AFILIACIÓN · Instagram **@emprendersaludable** = VENTA.
 - [x] **Resultado único del perfil de venta (2026-10-08):** *llegar a la tarde sin arrastrarte*, con método de 5 pilares (mañana · hidratación · digestión · pausas/movimiento · suplementación). Propuesto por Claude a partir de `avatar.md`; confirmar con Mariano.
 - [ ] Primeros 12 creativos de test: ver [2026-10-08-12-creativos-test-alcance-tiktok-instagram](../OUTPUTS/2026-10-08-12-creativos-test-alcance-tiktok-instagram.md)
-  - 2026-10-30: kit listo para grabar y publicar (guiones corregidos por compliance, descripciones, disclaimers, calendario y planilla) en `H:\INBIZ EMPRENDER SALUDABLE\KIT PUBLICACION - 12 PIEZAS TEST ALCANCE.md`. Pendiente de Mariano: elegir B5 (suavizado o pilar 4), fijar los umbrales de "funcionó" y grabar.
+  - 2026-10-30: kit listo para grabar y publicar (guiones corregidos por compliance, descripciones, disclaimers, calendario y planilla) en `H:\INBIZ\02 EMPRENDER SALUDABLE\KIT PUBLICACION - 12 PIEZAS TEST ALCANCE.md`. Pendiente de Mariano: elegir B5 (suavizado o pilar 4), fijar los umbrales de "funcionó" y grabar.
 - [ ] El método de negocio con **nombre propio** puesto en papel
 - [ ] Los 2-3 productos estrella con testimonio propio de Mariano
 
