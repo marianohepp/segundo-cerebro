@@ -4,6 +4,40 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-10-29 — Sumado el kit de mantenimiento "El Gordo" (La Biblia de los Productos Digitales)
+- **Fuente:** masterclass de Lucas (video OBS `D:ideos de obs6-10-29_20-22-53.mp4`, 44 slides) + kit `cerebro-lbdp-inicial.zip`.
+- **Decisión de Mariano:** no armar un cerebro nuevo; sumar el kit a este.
+- Nuevos: `HOT.md`, `LECCIONES/` (INDEX + 3 lecciones migradas de la memoria de Claude: Netlify `--site`, deploy PROA completo, no inventar teléfonos), `JARDIN.md`, `herramientas/hoy.py`.
+- `CLAUDE.md`: sección "Mantenimiento" (protocolo de lectura, comandos y 8 reglas duras).
+- Nuevo tema `WIKI/mantenimiento-cerebro.md`, enlazado en el índice.
+- Fuera de esta carpeta: comandos `/orden` `/aprende` `/jardin` y skills `buscar-productos`, `revisor-politicas-meta`, `editar-video-basico` en `~/.claude/`.
+
+## 2026-10-09 — Procesado: charla con otra IA sobre Nueva Frecuencia + ebook "Mentalidad en Acción"
+- **Fuente:** `RAW/2026-10-09-charla-gemini-nueva-frecuencia-ebook-mentalidad-en-accion.md`.
+- `nueva-frecuencia.md` **reescrito**: pasa de canal con avatar IA a Mariano dando la cara, con protocolo de privacidad, ebook propio de entrada e índice de 4 capítulos (intro y Cap. 1 ya redactados por la otra IA).
+- **Material personal nuevo y valioso registrado:** su diagnóstico del estancamiento en Fuxion ("pensar que le tengo que caer bien"), la procrastinación por ansiedad (azúcar / cortar el pasto / hacer favores = falsa productividad), el miedo a exponer a la familia, y el curso de Enric Corbera abandonado al 2º día.
+- **4 advertencias anotadas en la wiki:** (1) suma un 5º frente de contenido cuando el problema declarado es la división de energía y el ebook de limpieza no vendió nada; (2) posiciona Vita Xtra T+ / On con claims fisiológicos → choca con `compliance/reglas.md`; (3) el "Semillero de Relaciones" duplica el PROA CRM que ya tiene 180 clientes y tareas automáticas; (4) Nueva Frecuencia ya existía con EP00/EP01 y una invitada confirmada.
+- Rescatado como aprovechable: protocolo de privacidad (aplicable a todos los perfiles), reencuadre del "sillón espiritual", regla de los 15 minutos.
+
+## 2026-09-26 — Procesado: curso Alex Analiza, libreto de test de autoridad
+- **Fuente:** `RAW/2026-09-26-curso-alex-analiza-libreto-test-autoridad.md` — libreto para medir si los seguidores actuales ven a Mariano como autoridad en negocios (métrica: cuántos escriben "Negocio").
+- **Validado contra `H:\SISTEMA FUXION\compliance\reglas.md` y marcado 🔴 no publicable tal cual:** promete "ganar dinero todos los días" (regla 1.1), dice que los productos son "muy fáciles de vender" (checklist), omite que es venta directa + inversión + sin garantía (regla 1.3) y no lleva disclaimer (regla 3). Además mezcla usted/tú.
+- Guardada en la wiki una **versión corregida en rioplatense y compliant**, lista para usar como test.
+- Anotada la tensión con el módulo 2: como test puntual sirve; como línea de contenido sostenida lo contradice.
+
+## 2026-09-26 — Procesado: curso Alex Analiza, módulo "Asumir el rol / el experto"
+- **Fuente:** `RAW/2026-09-26-curso-alex-analiza-modulo-asumir-el-rol.md` — video de 27 min sin transcripción, resumido desde la pizarra.
+- Sumado al tema acumulativo `curso-alex-analiza.md`: las 3 cosas que tiene un experto, qué NO va en el contenido (estilo de vida, plan de compensación, compañía), el ejemplo Dr. Bayter y la **plantilla de video de 3 pasos**.
+- **Hallazgo anotado:** el curso usa "método" para **dos cosas distintas** — el método de NEGOCIO (5 pasos, módulo 1, perfil de afiliación) y el método de RESULTADO (3-5 pilares, módulo 2, perfil de venta). Se agregó una tabla comparativa para no mezclarlos.
+- **Corrección respecto del 1er módulo:** ya no es cierto que el perfil de venta esté sin insumo; el módulo 2 es directamente su materia prima. Actualizada la sección de pendientes.
+- Nueva cuenta mencionada: `@energiasostenida` (candidata a perfil de venta).
+
+## 2026-09-26 — Procesado: curso Alex Analiza, módulo "El método"
+- **Fuente:** `RAW/2026-09-26-curso-alex-analiza-modulo-el-metodo.md` — resumen de un video de 22 min **sin transcripción**, armado desde la pizarra. Marcado en el propio archivo como fiel en estructura / aproximado en matices.
+- **Nuevo tema `curso-alex-analiza.md`** (acumulativo, se le van sumando módulos). Contiene: los 8 miedos que frenan la decisión, los 5 pasos del método con el miedo que desarma cada uno, la regla "se muestra el método, no el plan de compensación" y el discurso de captación invertido.
+- Enlazado desde `index.md` (sección Fuxion / network marketing).
+- **Objetivo declarado por Mariano:** llegar a la **rutina diaria de contenido para dos perfiles** (venta y afiliación). El módulo 1 alimenta sobre todo el de afiliación; el de venta sigue sin insumo de este curso. Lista de pendientes dentro del tema.
+
 ## 2026-07-27 — Procesado: Plan de Acción PROA (documento de onboarding completo)
 - Mariano bajó sin querer el PDF oficial `RAW/PDA A4.pdf` (27 páginas, 58MB) — el "Plan de Acción" que se le da a cada socio nuevo de PROA. Instalados `pypdf`/`pdfplumber` para extraer el texto (el Read tool necesitaba `poppler`, no instalado).
 - **Housekeeping:** agregado `*.pdf` al `.gitignore` (mismo criterio que audio/video — quedan en Drive, no en git) y destrackeado el PDF ya commiteado.

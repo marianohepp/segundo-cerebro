@@ -2,12 +2,13 @@
 
 Mapa maestro del segundo cerebro. Una línea por tema. Claude lo mantiene actualizado.
 
-_Última actualización: 2026-07-23_
+_Última actualización: 2026-09-26_
 
 ## 🧭 Núcleo
 - [[perfil-mariano]] — quién es, los 3 frentes en paralelo, objetivo macro y sistema de 90 días
 - [[marco-ejecucion]] — el sistema operativo mental (2 pilares + pregunta filtro) que aplica a todo
 - [[gente]] — mapa de personas: familia, red PROA, socios y amigos
+- [[mantenimiento-cerebro]] — cómo se mantiene vivo este cerebro: /orden /aprende /jardin, HOT.md, lecciones (método LBDP, 2026-10-29)
 - [[conexiones]] — patrones ocultos que cruzan varios proyectos (lo que un índice plano no ve)
 - [[estado-actual]] — 🚦 dashboard único: bloqueantes, decisiones abiertas, fechas y pendientes
 
@@ -18,11 +19,13 @@ _Última actualización: 2026-07-23_
 
 ## 🌐 Fuxion / network marketing
 - [[fuxion-proa]] — el negocio Fuxion dentro de PROA; ingreso residual, meta Diamante
+- **Sistema de adquisición Fuxion** — proyecto activo en `H:\SISTEMA FUXION\` (brief en `H:\ALUMBRA\briefsistemafuxion.md`). Fase 0 lista: `compliance/reglas.md` + `estrategia/{avatar,mensaje,oferta,objeciones}.md`
 - [[proa-crm]] — app CRM propia "Iva" vs. el competidor Xenda
 - [[sofi-agente-wp]] — agente IA de WhatsApp que califica leads
 - [[evento-alumbra]] — evento anual de Fuxion en Perú (20 años); capacitación de Mariano el miércoles
 - [[metodologia-proa]] — cómo se lidera y acompaña socios en PROA (acción>resultado, plan>meta, sistema)
 - [[plan-de-accion-proa]] — el documento oficial de onboarding: metas, 3 acciones simples, franquicias, el patrón 50 cajas+5 afiliaciones
+- [[curso-alex-analiza]] — curso de vender/afiliar por redes; acumulativo por módulos. Meta: rutina diaria de contenido para perfil de venta + perfil de afiliación
 
 ## 📱 Productos digitales
 - [[despertate-bien]] — ebook+app de sueño/energía (FOCO); bloqueado por creativos de video
@@ -30,6 +33,9 @@ _Última actualización: 2026-07-23_
 - [[recursos-creativos-ia]] — shortlist de videos/apps para producir creativos de video con IA (Veo 3, 100 Ads…)
 - [[estrategia-alumbra-abril]] — capacitación de Mariano del 9/04: fechas exactas, estrategia financiera de 3 ciclos para pagar el viaje
 - [[research-competencia-ebooks]] — qué ebooks de salud corren en Meta AR; recomendación de próximo nicho (detox/intestino)
+- [[metodo-producto-ganador-spiso]] — método del curso de Spiso para encontrar/validar producto ganador + estructura de página de 7 secciones; carpeta de trabajo `H:\ebooks seba spiso\`
+- [[app-buscador-recetas-limpieza]] — app bonus del ebook: buscador de recetas por mancha/superficie, HTML estático sin costo, `H:\ebooks seba spiso\app-buscador-recetas.html`
+- Marca del ebook: **"Eco Alacena"** (IG/FB/tienda), definida 2026-08-21 — ver nota en [[2026-08-15-pagina-venta-recetas-limpieza-casera]]
 - [[nueva-frecuencia]] — canal de YouTube de consciencia con avatar IA
 - [[planeta-limpio-corsair]] — créditos de reciclaje plástico (despriorizado)
 - [[otros-proyectos]] — madera del hermano + ebook de supervivencia (en pausa)
@@ -56,3 +62,10 @@ _Última actualización: 2026-07-23_
 - [Plan de lanzamiento creativos Despertate](../OUTPUTS/2026-07-24-plan-lanzamiento-creativos-despertate.md) — 2026-07-24 · 3 creativos Veo 3 + copy + estructura de campaña de test
 - [Semana de lanzamiento Nueva Frecuencia](../OUTPUTS/2026-07-25-semana-lanzamiento-nueva-frecuencia.md) — 2026-07-25 · video ancla + 5 shorts, tema "tu frecuencia define tu comportamiento"
 - [Guía campaña Meta Ads Despertate](../OUTPUTS/2026-07-24-guia-campana-meta-despertate.md) — 2026-07-24 · paso a paso para lanzar los 3 creativos en Meta
+- [Creativos @emprendersaludable / Prunex1](../OUTPUTS/2026-08-01-creativos-emprendersaludable-prunex1.md) — 2026-08-01 · 3 guiones (confesión, "¿te imaginás?", contradicción) para el mes de CapCut, nicho detox intestinal
+- [Carrusel IG — carta "2:13 AM"](../OUTPUTS/2026-08-09-carrusel-ig-carta-2-13am.md) — 2026-08-09 · 9 slides, prueba orgánica sin pauta tras pausar las 3 campañas por 0 ventas
+- [Creativos oportunidad Fuxion (WhatsApp)](../OUTPUTS/2026-08-09-creativos-oportunidad-fuxion-whatsapp.md) — 2026-08-09 · 3 guiones Click-to-WhatsApp, ángulo "vender sueños no ingreso extra", nota de compliance MLM
+- [Fábrica de ideas ganadoras — 10 propuestas](../OUTPUTS/2026-08-15-fabrica-ideas-ganadoras-10-propuestas.md) — 2026-08-15 · ideas Motor 1/Motor 2 con investigación real en Ads Library, ganadora: recetas de limpieza casera
+- [Página de venta — Recetas de Limpieza Casera](../OUTPUTS/2026-08-15-pagina-venta-recetas-limpieza-casera.md) — 2026-08-15 · copy completo, estructura de 7 secciones de Spiso, sin errores de precio/reseñas de Despertate Bien
+- [12 creativos test de alcance — TikTok + Instagram](../OUTPUTS/2026-10-08-12-creativos-test-alcance-tiktok-instagram.md) — 2026-10-08 · 6 de afiliación (TikTok, módulo 1) + 6 de venta (IG, módulo 2), compliance validado y protocolo de medición
+- [Recetario 100 Recetas — COMPLETO](../OUTPUTS/2026-08-19-recetario-100-recetas-limpieza-completo.md) — 2026-08-19 · las 100 recetas desarrolladas, con notas de seguridad (nunca lavandina + ácido, mármol/cuero sin ácido, etc.) — reemplaza la muestra del 15/08

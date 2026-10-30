@@ -1,8 +1,8 @@
-# Despertate Bien — producto digital (foco prioritario)
+# Despertate Bien — producto digital (CERRADO)
 
-> Ebook + app de bienestar sobre sueño/energía/salud intestinal. Infraestructura casi completa, pero ventas en cero: bloqueado por creativos de video con IA con texto alucinado.
+> ⛔ **Cerrado 2026-08-15.** Ebook + app de bienestar sobre sueño/energía/salud intestinal. Se lanzó campaña, se diagnosticó y arregló la causa técnica real del 0% de conversión (21% de IVA sorpresa en el checkout), pero no alcanzó a generar ventas en el tiempo probado. Mariano canceló la tienda Shopify. Queda como **referencia de proceso** (research de competencia validado, estructura de página, lecciones de precio/impuestos que ya se aplicaron al nuevo foco) — ver [[metodo-producto-ganador-spiso]] y [[estado-actual]] para el trabajo activo actual.
 
-_Última actualización: 2026-07-23_
+_Última actualización: 2026-08-15_
 
 ## Producto
 - Ebook **"Despertate con Energía"**: sueño, salud intestinal, energía, reducción de azúcar. Incluye técnica bonus **"Respiración Gamma"**.
