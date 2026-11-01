@@ -23,6 +23,11 @@ _Rúbrica: 4 (reel orgánico), versión 1. Se audita el **guion**: "Producción"
 
 **Ranking:** publicar primero **B1 y A4** (los más fuertes de cada perfil). Rehacer antes de grabar: **A3, B4, B5**.
 
+## Cambios aplicados (2026-11-01, confirmado por Mariano)
+CTAs reescritos en la pieza original con palabra clave (TikTok **NEGOCIO**, Instagram **ENERGÍA**): A2, A4, B1, B3, B4, B5, B6. B2 queda con CTA de comentarios a propósito.
+Notas recalculadas con el CTA nuevo (son las que valen en `REGISTRO.md`): A2 7,2→**7,4** · A4 7,6→**7,7** · B1 7,7→**7,8** · B3 6,7→**6,8** · B4 **6,3** (=) · B5 6,2→**6,6** · B6 7,1→**7,4**.
+Siguen pendientes: hooks de A3 y B4, valor de A1/B3, grabar A5 sin cara, fijar umbrales.
+
 ## Lo que falla en todo el lote (arreglarlo una vez, mejora los 12)
 
 1. **7 de 12 CTAs no piden la acción que el test mide.** La planilla cuenta "mensajes con palabra clave", pero A2, A4, B1, B3, B4, B5 y B6 no tienen palabra clave (o no piden nada). Con eso el test queda ciego justo en la métrica de venta. → TikTok: todos con **NEGOCIO**. Instagram: elegir una (ej. **ENERGÍA**) y usarla en los 6.

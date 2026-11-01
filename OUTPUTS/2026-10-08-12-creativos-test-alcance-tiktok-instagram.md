@@ -8,6 +8,8 @@ _2026-10-08 · Objetivo: medir alcance orgánico para decidir qué pautar._
 
 **Validado contra** `H:\SISTEMA FUXION\compliance\reglas.md`: sin cifras de ingreso, sin nombrar enfermedades, sin "fácil/sin vender/sin invertir", sin antes-después, con transparencia al invitar.
 
+**Palabras clave (actualizado 2026-11-01, tras [[2026-11-01-fuxion-12-creativos-test-alcance]]):** TikTok → **NEGOCIO** · Instagram → **ENERGÍA**. Todo CTA pide una de las dos, para que la planilla pueda contar mensajes. B2 queda con CTA de comentarios a propósito.
+
 **Vocabulario:** tomado textual de `estrategia/avatar.md` (las frases de ella, no las nuestras).
 
 ---
@@ -26,7 +28,7 @@ Regla del módulo 1: se muestra **el método, no el plan de compensación**. Se 
 - **Gancho:** "¿Esto es una pirámide? Es la pregunta más honesta que me pueden hacer."
 - **Desarrollo:** No la esquivo. Es venta directa: hay un producto real que la gente compra y vuelve a comprar. Si nadie compra producto, no hay negocio — y ahí sí sería otra cosa.
 - **Giro:** La diferencia se mide en una pregunta: ¿se gana por vender o por sumar gente? Si es lo segundo, salí corriendo.
-- **CTA:** "Preguntame lo que quieras, respondo todo."
+- **CTA:** "Preguntame lo que quieras: escribime NEGOCIO y te respondo todo por privado."
 
 ### A3 — "Ya estuve en otra y me dejaron sola"
 - **Gancho:** "«Ya estuve en una de estas y me dejaron sola». Lo escucho todas las semanas."
@@ -38,7 +40,7 @@ Regla del módulo 1: se muestra **el método, no el plan de compensación**. Se 
 - **Gancho:** "Si no sabés vender, no empieces vendiendo."
 - **Desarrollo:** El error es arrancar ofreciendo un catálogo de 40 productos que nunca probaste. No sabés qué decir porque no tenés nada propio que contar.
 - **Giro:** Primero elegís 2 o 3 productos, los usás vos, y contás lo que te pasó. Eso no es vender: es contar. Vender viene después y es mucho más fácil cuando tenés algo tuyo.
-- **CTA:** "Ese es el paso 1 de cómo trabajo. ¿Querés los otros 4?"
+- **CTA:** "Ese es el paso 1 de cómo trabajo. Escribime NEGOCIO y te paso los otros 4."
 
 ### A5 — "No manejo redes / no quiero mostrar la cara"
 - **Gancho:** "No hace falta que muestres la cara para que esto funcione."
@@ -68,7 +70,7 @@ El producto **no es protagonista**: es una pieza del pilar 5.
 1. "Si a las 4 de la tarde te morís y te tomás un café, el café no es la solución: es el parche."
 2. "Lo que hay que mirar es cómo arrancaste el día. Si desayunaste poco y a las 11 picoteaste algo dulce, el bajón de las 4 ya estaba decidido a las 8 de la mañana."
 3. "Porque tu energía de la tarde se construye a la mañana, no se rescata a la tarde."
-- **CTA:** "Pilar 1 de 5. ¿Sigo con el resto?"
+- **CTA:** "Pilar 1 de 5. Escribime ENERGÍA y te paso los otros 4."
 
 ### B2 — Dormir 8 horas y levantarse cansada
 1. "Si dormís tus 8 horas y igual te levantás cansada, el problema no es cuánto dormís."
@@ -80,26 +82,26 @@ El producto **no es protagonista**: es una pieza del pilar 5.
 1. "Si a la tarde te queda apretado el pantalón que a la mañana te entraba bien, eso no es que comiste de más."
 2. "Mirá cómo viene tu digestión en la semana, no en el día. Un día suelto no dice nada; tres días lentos sí."
 3. "Porque cuando el tránsito se enlentece, se acumula, y eso se nota en la panza a la tarde."
-- **CTA:** "Pilar 3. Si querés que te cuente qué hago yo, escribime."
+- **CTA:** "Pilar 3. Si querés que te cuente qué hago yo, escribime ENERGÍA."
 
 ### B4 — "Probé de todo y nada me funcionó"
 1. "Si probaste infusiones, ciruelas, la dieta de la nutricionista dos meses, y nada te duró, no es que no servís."
 2. "Probaste cosas sueltas, no un método. Una cosa dos semanas, otra un mes, nada sostenido."
 3. "Porque el cuerpo responde a lo que se repite, no a lo que se intenta."
-- **CTA:** "Son 5 pilares y ninguno es mágico. ¿Querés que te los explique?"
+- **CTA:** "Son 5 pilares y ninguno es mágico. Escribime ENERGÍA y te los explico."
 
 ### B5 — "Voy al baño cada tres días y ya me acostumbré"
 1. "«Voy cada tres días pero ya me acostumbré». Que te hayas acostumbrado no lo vuelve normal."
 2. "Antes de cambiar nada, registralo una semana. Lo que no medís, lo normalizás."
 3. "Porque tu cuerpo se adapta a lo que le pasa seguido, aunque no le esté haciendo bien."
-- **CTA:** "Pilar 3 otra vez, porque es el que más consultas me trae."
+- **CTA:** "Es el tema que más consultas me trae. Escribime ENERGÍA y te cuento cómo lo registro yo."
 - ⚠️ **Compliance:** hablar de tránsito y hábito. No nombrar ninguna patología ni decir que algo la "cura" o "limpia toxinas".
 
 ### B6 — El agua que no alcanza
 1. "Si tomás agua todo el día y seguís con la boca seca y sin energía, el problema no es cuánta tomás."
 2. "Es cuándo. Dos litros entre las 6 y las 10 de la noche no te hidratan el día, te desvelan."
 3. "Porque el cuerpo usa lo que le llega mientras está activo, no lo que le llega cuando se va a dormir."
-- **CTA:** "Pilar 2 de 5."
+- **CTA:** "Pilar 2 de 5. Escribime ENERGÍA y te paso los 5."
 
 ---
 
