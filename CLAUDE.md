@@ -36,6 +36,7 @@ Sos el bibliotecario de este segundo cerebro. Las 5 reglas (no borrar, solo ampl
 - `/orden` — guarda solo lo nuevo de la sesión, actualiza HOT y changelog, un commit + push. **Sugerilo vos al cerrar toda sesión que haya producido algo nuevo del negocio.**
 - `/aprende` — propone lecciones numeradas; escribe solo las que Mariano confirme.
 - `/jardin` — curaduría semanal; nunca borra ni crea contenido nuevo.
+- `/auditor` — puntúa 1-10 cada pieza (hooks, reels, creativos, anuncios, embudos…) antes de publicar y, con los resultados, diagnostica y propone lo aprendido. Vive en `AUDITORIAS/` (RUBRICAS, REGISTRO, PATRONES). **Sugerilo vos al terminar de producir una pieza y cuando Mariano traiga números.**
 
 ### Reglas duras sumadas
 1. **Verificá por artefacto, nunca por proxy.** Antes de decir "listo", mirá el archivo, la página publicada o el commit. "Corrió y no cambió nada" es un error, no un éxito.
