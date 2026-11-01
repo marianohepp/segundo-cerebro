@@ -31,8 +31,8 @@ Regla del módulo 1: se muestra **el método, no el plan de compensación**. Se 
 - **CTA:** "Preguntame lo que quieras: escribime NEGOCIO y te respondo todo por privado."
 
 ### A3 — "Ya estuve en otra y me dejaron sola"
-- **Gancho:** "«Ya estuve en una de estas y me dejaron sola». Lo escucho todas las semanas."
-- **Desarrollo:** Te afilian, te felicitan en el grupo y después nadie te atiende. El entusiasmo dura 3 semanas, no vendés nada y te vas pensando que no servís.
+- **Gancho:** "Te afiliaron, te felicitaron en el grupo… y a las 3 semanas nadie te contestaba." _(hook v2, 2026-11-01)_
+- **Desarrollo:** Sin nadie al lado, el entusiasmo se apaga, no vendés nada y te vas pensando que no servís.
 - **Giro:** No era que no servías. Era que te faltaba acompañamiento, y eso es lo único que decide si alguien sigue a los 30 días.
 - **CTA:** "Así trabajo yo. Escribime NEGOCIO y te muestro el sistema."
 
@@ -85,8 +85,8 @@ El producto **no es protagonista**: es una pieza del pilar 5.
 - **CTA:** "Pilar 3. Si querés que te cuente qué hago yo, escribime ENERGÍA."
 
 ### B4 — "Probé de todo y nada me funcionó"
-1. "Si probaste infusiones, ciruelas, la dieta de la nutricionista dos meses, y nada te duró, no es que no servís."
-2. "Probaste cosas sueltas, no un método. Una cosa dos semanas, otra un mes, nada sostenido."
+1. "Probaste de todo. Ese es el problema." _(hook v2, 2026-11-01)_
+2. "Infusiones, ciruelas, dos meses de dieta… cosas sueltas, no un método. Una cosa dos semanas, otra un mes, nada sostenido. Y no es que no servís."
 3. "Porque el cuerpo responde a lo que se repite, no a lo que se intenta."
 - **CTA:** "Son 5 pilares y ninguno es mágico. Escribime ENERGÍA y te los explico."
 

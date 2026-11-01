@@ -26,7 +26,8 @@ _Rúbrica: 4 (reel orgánico), versión 1. Se audita el **guion**: "Producción"
 ## Cambios aplicados (2026-11-01, confirmado por Mariano)
 CTAs reescritos en la pieza original con palabra clave (TikTok **NEGOCIO**, Instagram **ENERGÍA**): A2, A4, B1, B3, B4, B5, B6. B2 queda con CTA de comentarios a propósito.
 Notas recalculadas con el CTA nuevo (son las que valen en `REGISTRO.md`): A2 7,2→**7,4** · A4 7,6→**7,7** · B1 7,7→**7,8** · B3 6,7→**6,8** · B4 **6,3** (=) · B5 6,2→**6,6** · B6 7,1→**7,4**.
-Siguen pendientes: hooks de A3 y B4, valor de A1/B3, grabar A5 sin cara, fijar umbrales.
+Hooks reescritos (v2) en A3 ("Te afiliaron, te felicitaron en el grupo… y a las 3 semanas nadie te contestaba.") y B4 ("Probaste de todo. Ese es el problema."). Notas: A3 6,1→**7,0** (hook 8, retención 7) · B4 6,3→**7,0** (hook 8).
+Siguen pendientes: valor de A1/B3, grabar A5 sin cara, fijar umbrales.
 
 ## Lo que falla en todo el lote (arreglarlo una vez, mejora los 12)
 
