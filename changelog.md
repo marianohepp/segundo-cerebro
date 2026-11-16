@@ -4,9 +4,26 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-11-16 — Plan de acción de 48 hs para el socio nuevo (Erick Gamio)
+- Nueva página `WIKI/plan-48hs-socio-nuevo.md`: los 10 pasos de la primera sesión con el socio nuevo, la plantilla de 60-90 min y las ideas para PROA CRM / Sofi. Guía de Mariano para sus socios nuevos.
+- Fuente en `RAW/2026-11-16-plan-accion-48hs-erick-gamio.md` (resumen de Mariano del video de Erick Gamio). Enlazada desde [[plan-de-accion-proa]] y [[metodologia-proa]].
+
+## 2026-11-14 — PROA Digital (anexo al Plan de Acción)
+- Nueva página `WIKI/proa-digital.md`: mapa y calendario de contenido para 25 productos + 5 socios por período, rutina 1·3·7 y escalera de 30 días para el socio nuevo.
+- Enlazada desde `WIKI/plan-de-accion-proa.md`.
+
+## 2026-11-14 — Curso Alex Analiza: Con voz, Primer mensaje y Presentación del negocio
+- Sumados los módulos 5, 6 y 7 a `WIKI/curso-alex-analiza.md`, con tabla de lo que no se copia por compliance.
+- Fuentes en `RAW/2026-11-14-curso-alex-analiza-con-voz.md`, `-primer-mensaje.md` y `-presentacion-negocio.md`.
+- Aplicado en `H:\AGENTE IA FUXION  WP\creativos-afiliacion\` (presentacion-y-dm.md, ganchos-virales-adaptados.md).
+
+## 2026-11-14 — Curso Alex Analiza: lección "Ganas"
+- Sumado el módulo 4 (los 4 ingredientes para que el prospecto sienta ganas) a `WIKI/curso-alex-analiza.md`.
+- Fuente en `RAW/2026-11-14-curso-alex-analiza-ganas.md`; el audio de la grabación era muy bajo y la transcripción tiene huecos.
+- Aplicado al banco de clips de prospección de @emprendersaludable.
+
 ## 2026-10-30 — Kit de publicación de las 12 piezas del test de alcance (Fuxion)
-- Revisadas contra `H:\SISTEMA FUXION\compliance
-eglas.md`: 6 frases corregidas (A4 "más fácil", A6 "sin excepción", claims fisiológicos en B2/B3/B6) y disclaimers al pie de cada descripción.
+- Revisadas contra `H:\SISTEMA FUXION\compliance\reglas.md`: 6 frases corregidas (A4 "más fácil", A6 "sin excepción", claims fisiológicos en B2/B3/B6) y disclaimers al pie de cada descripción.
 - **B5 marcado de riesgo alto** (describe un síntoma clínico): dos opciones para que decida Mariano, una suavizada y una nueva del pilar 4 (pausas y movimiento), que no tenía pieza.
 - Entregable en `H:\INBIZ\02 EMPRENDER SALUDABLE\KIT PUBLICACION - 12 PIEZAS TEST ALCANCE.md`. Enlazado desde [[curso-alex-analiza]].
 

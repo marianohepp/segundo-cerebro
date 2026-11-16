@@ -65,4 +65,4 @@ _Última actualización: 2026-07-23 · Fuente: transcripción Zoom de un espacio
 - **Predicar con el ejemplo:** mostrar tus propios sueños/logros (viajes, ayudar a los padres) para que digan "si él puede, yo puedo".
 
 ## Relacionado
-- [[fuxion-proa]] · [[marco-ejecucion]] (coincide fuerte: acción > intención, medir, sistema) · [[proa-crm]] (la "herramienta de medición" que describen es justo lo que el CRM automatiza) · [[evento-alumbra]] · [[gente]]
+- [[plan-48hs-socio-nuevo]] (la primera sesión con el socio nuevo, paso a paso) · [[fuxion-proa]] · [[marco-ejecucion]] (coincide fuerte: acción > intención, medir, sistema) · [[proa-crm]] (la "herramienta de medición" que describen es justo lo que el CRM automatiza) · [[evento-alumbra]] · [[gente]]

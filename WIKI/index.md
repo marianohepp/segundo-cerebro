@@ -25,6 +25,8 @@ _Última actualización: 2026-09-26_
 - [[evento-alumbra]] — evento anual de Fuxion en Perú (20 años); capacitación de Mariano el miércoles
 - [[metodologia-proa]] — cómo se lidera y acompaña socios en PROA (acción>resultado, plan>meta, sistema)
 - [[plan-de-accion-proa]] — el documento oficial de onboarding: metas, 3 acciones simples, franquicias, el patrón 50 cajas+5 afiliaciones
+- [[plan-48hs-socio-nuevo]] — guía de la primera sesión con el socio nuevo: los 10 pasos de Erick Gamio para las primeras 48 hs
+- [[proa-digital]] — anexo digital del plan: mapa y calendario de contenido, rutina 1·3·7, 30 días del socio nuevo
 - [[curso-alex-analiza]] — curso de vender/afiliar por redes; acumulativo por módulos. Meta: rutina diaria de contenido para perfil de venta + perfil de afiliación
 
 ## 📱 Productos digitales

@@ -69,5 +69,11 @@ Capacitaciones clave para afiliación: "Tengo un socio nuevo y ahora qué", 10 c
 - **Prunex** ya estaba documentado en [[fuxion-proa]] como "producto de entrada" — acá se confirma el mecanismo exacto (estrategia detox de 13 personas).
 - Es el **"sistema de onboarding duplicable"** que ya figuraba mencionado (sin detalle) en [[fuxion-proa]].
 
+## Anexo digital
+- [[proa-digital]] — mapa y calendario de contenido (rutina 1·3·7) que corre en paralelo a estas acciones. PDF en `H:\AGENTE IA FUXION  WP\plan-digital-proa\PROA-Digital.pdf`.
+
+## La primera sesión con el socio nuevo
+- [[plan-48hs-socio-nuevo]] — los 10 pasos de Erick Gamio para las primeras 48 hs (conectar, 3 números, meta, inauguración, permiso, 3 tareas).
+
 ## Relacionado
 - [[fuxion-proa]] · [[metodologia-proa]] · [[estrategia-alumbra-abril]] · [[marco-ejecucion]]
