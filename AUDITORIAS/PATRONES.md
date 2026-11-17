@@ -14,3 +14,8 @@
 ## No funciona ❌
 
 ## Hipótesis para testear 🧪
+_Origen: [[sistema-100k-sangregorio]] (le funcionaron a él; para nosotros todavía no hay datos). Se prueban en el lote 2 de Eco Alacena._
+- **Imagen con pregunta** como creativo estático. Ej.: "¿Por qué tu casa sigue oliendo a químico después de limpiar?"
+- **Reel de 3 experimentos** ("ni se te ocurra limpiar X así, a menos que…").
+- **Review del PDF**: video scrolleando por dentro del producto.
+- **El ganador traducido** rinde más que un creativo nuevo en el mercado nuevo.

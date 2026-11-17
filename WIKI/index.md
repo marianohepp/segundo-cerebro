@@ -35,6 +35,7 @@ _Última actualización: 2026-09-26_
 - [[recursos-creativos-ia]] — shortlist de videos/apps para producir creativos de video con IA (Veo 3, 100 Ads…)
 - [[estrategia-alumbra-abril]] — capacitación de Mariano del 9/04: fechas exactas, estrategia financiera de 3 ciclos para pagar el viaje
 - [[research-competencia-ebooks]] — qué ebooks de salud corren en Meta AR; recomendación de próximo nicho (detox/intestino)
+- [[sistema-100k-sangregorio]] — sistema de un vendedor de ebooks a ~USD 100K/mes (testeo 1-1-1, rentable vs. ganador, jurado IA, traducir el ganador); qué ya tenemos y qué falta (2026-11-17)
 - [[metodo-producto-ganador-spiso]] — método del curso de Spiso para encontrar/validar producto ganador + estructura de página de 7 secciones; carpeta de trabajo `H:\ebooks seba spiso\`
 - [[app-buscador-recetas-limpieza]] — app bonus del ebook: buscador de recetas por mancha/superficie, HTML estático sin costo, `H:\ebooks seba spiso\app-buscador-recetas.html`
 - Marca del ebook: **"Eco Alacena"** (IG/FB/tienda), definida 2026-08-21 — ver nota en [[2026-08-15-pagina-venta-recetas-limpieza-casera]]

@@ -4,6 +4,11 @@ Registro de qué se procesó y cuándo. Lo mantiene Claude.
 
 ---
 
+## 2026-11-17 — Sistema "100K/mes" de Sangregorio
+- Nueva página `WIKI/sistema-100k-sangregorio.md`: el sistema completo, comparado con lo que ya tenemos, más 3 contradicciones con el plan 10k (comisión de Impultienda, Impultienda fuera de AR, segmentación por país vs. por idioma).
+- Fuente en `RAW/2026-11-17-sangregorio-sistema-100k.md` (resumen de Mariano del video).
+- `/auditor`: control de calidad de creativos en `RUBRICAS.md` (rúbrica 2), referencia de rentable vs. ganador, 4 formatos como hipótesis en `PATRONES.md` y **modo jurado** con `AUDITORIAS/JURADO.md` (7 avatares de Eco Alacena, en borrador).
+
 ## 2026-11-16 — Plan de acción de 48 hs para el socio nuevo (Erick Gamio)
 - Nueva página `WIKI/plan-48hs-socio-nuevo.md`: los 10 pasos de la primera sesión con el socio nuevo, la plantilla de 60-90 min y las ideas para PROA CRM / Sofi. Guía de Mariano para sus socios nuevos.
 - Fuente en `RAW/2026-11-16-plan-accion-48hs-erick-gamio.md` (resumen de Mariano del video de Erick Gamio). Enlazada desde [[plan-de-accion-proa]] y [[metodologia-proa]].

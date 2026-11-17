@@ -46,6 +46,16 @@ porque ese fallo solo ya mata la pieza.
 | ⛔ CTA | 1 | ¿Dice qué hacer y por qué ahora? |
 | Formato técnico | 1 | 9:16 / 4:5, subtítulos legibles, zona segura, audio limpio, sin texto alucinado por IA. |
 
+**Control de calidad (pasa / no pasa, antes de puntuar).** Un solo ✗ = la pieza
+vuelve a producción sin nota. _(fuente: checklist de [[sistema-100k-sangregorio]], 2026-11-17)_
+- [ ] Audio sin cortes ni desfases; voz sincronizada con labios si es UGC.
+- [ ] Un solo idioma de punta a punta.
+- [ ] Texto en pantalla sin errores (ojo con lo que alucina la IA).
+- [ ] Caras y manos bien hechas.
+- [ ] Nada de material ajeno ni caras de otras personas.
+- [ ] Sin precios ni promesas prohibidas (`/revisor-politicas-meta`).
+- [ ] Si es traducción: suena nativo, no traducido.
+
 ## 3. Copy de anuncio (texto principal + título)
 
 | Criterio | Peso | Qué mirar |
@@ -133,6 +143,12 @@ porque ese fallo solo ya mata la pieza.
 | Conversión landing | Compras / visitas a la página | <1 % | 1–3 % | >3 % |
 | ROAS | Ventas / gasto | <1 | 1–2 | >2 |
 
+**Rentable vs. ganador (referencia de Sangregorio, pendiente de que Mariano fije los suyos):**
+- **Rentable:** CPA ≤ ~70 % del precio → queda en testeo.
+- **Ganador:** **10+ ventas con CPA ≤ ~25 % del precio** (ROAS 3+) → es el único que se escala. ~3 de cada 100 creativos.
+- Para Eco Alacena a $14.999 serían: rentable CPA ≤ ~$10.500 · ganador CPA ≤ ~$3.750 con 10+ ventas. **Revisar contra el CPA de equilibrio del plan 10k ($13.199, o ≈ $10.908 con IVA) antes de adoptarlo.**
+- Se juzga **a los 3 días**, nunca por un día.
+
 **Diagnóstico rápido:** hook rate bajo → falla el hook. Hook bien y hold bajo →
 falla el cuerpo del video. Hold bien y CTR bajo → falla la oferta o el CTA. CTR
 bien y no vende → falla la landing, el precio o el checkout.
@@ -141,3 +157,4 @@ bien y no vende → falla la landing, el precio o el checkout.
 
 ## Historial de cambios
 - 2026-11-01 — Versión 1, creada junto con la skill `/auditor`.
+- 2026-11-17 — Checklist de control de calidad en la rúbrica 2 y referencia de rentable/ganador, de [[sistema-100k-sangregorio]]. Sin cambio de pesos.
