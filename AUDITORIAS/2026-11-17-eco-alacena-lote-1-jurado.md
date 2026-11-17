@@ -14,14 +14,14 @@ _Jurado: `JURADO.md` v1 (borrador), 7 avatares con peso 1,0, votación a ciegas.
 | 2 | `BLN_A2_H1_E01` | Lavandina + vinagre = gas tóxico | **7,6** | 9 | ✔ | 1 | 32,0 % |
 | 3 | `BLN_A3_H3_E01` | Bicarbonato a la noche, horno limpio a la mañana | **7,6** | 8 | ✔ | 1 | 36,7 % |
 | 4 | `BLN_S3_paint-gas-toxico` | LAVANDINA + VINAGRE = GAS TÓXICO (estilo Paint) | **7,4** | 9 | ✔ | 1 | 33,1 % |
-| 5 | `BLN_A2_H1_E02` | Noticiero · Mezclar lavandina con vinagre libera gas tóxico | **7,1** | 8 | ⚠️ | 2 | 31,0 % |
+| 5 | `BLN_A2_H1_E02` | Noticiero · Mezclar lavandina con vinagre libera gas tóxico | **7,1** | 8 | ✔ | 2 | 31,0 % |
 | 6 | `BLN_A1_H3_E01` | Dejé de comprar 8 productos de limpieza | **7,0** | 8 | ✔ | 1 | 31,8 % |
 | 7 | `BLN_S5_paint-deje-de-comprar` | DEJÉ DE COMPRAR 8 PRODUCTOS DE LIMPIEZA | **6,9** | 8 | ✔ | 1 | 33,4 % |
 | 8 | `BLN_A1_H2_E01` | Tres cosas reemplazan ocho productos | **6,4** | 7 | ✔ | 1 | 36,6 % |
 | 9 | `BLN_S1_mockup-precio` | Mockup + precio | **6,4** | 4 | ✔ | 2 | 34,3 % |
 | 10 | `BLN_A2_H2_E01` | Si para limpiar tu casa hace falta esto… | **6,3** | 8 | ✔ | 2 | 33,8 % |
 | 11 | `BLN_A3_H1_E01` | La grasa del horno sale sola | **6,3** | 7 | ✔ | 2 | 36,7 % |
-| 12 | `BLN_A1_H2_E02` | Noticiero · Tres cosas de la alacena reemplazan 8 productos | **6,1** | 7 | ⚠️ | 2 | 29,5 % |
+| 12 | `BLN_A1_H2_E02` | Noticiero · Tres cosas de la alacena reemplazan 8 productos | **6,1** | 7 | ✔ | 2 | 29,5 % |
 | 13 | `BLN_S4_bonos` | Regalo de lanzamiento: la Biblia + 2 bonos | **5,9** | 4 | ✔ | 2 | 33,0 % |
 | 14 | `BLN_A2_H3_E01` | Si tenés gato: ojo con lo que usás para limpiar | **5,7** | 6 | ✔ | 3 | 30,4 % |
 | 15 | `BLN_A4_H1_E01` | Sarro del inodoro, sin comprar nada | **5,6** | 6 | ✔ | 3 | 28,0 % |
@@ -43,6 +43,7 @@ _Jurado: `JURADO.md` v1 (borrador), 7 avatares con peso 1,0, votación a ciegas.
 4. **Sin audio.** Al subirlos, agregar música de la biblioteca de Meta (ya estaba anotado).
 
 ## Control de calidad
+- ✅ **2026-11-17, aplicado:** en los dos noticieros el badge «● EN VIVO» pasó a «DATO ÚTIL» (9:16 y 4:5, re-renderizados y verificados por cuadros). Los originales quedaron en `lote-1/_archivo/2026-11-17-noticieros-con-en-vivo/`. Queda el rótulo «ÚLTIMO MOMENTO» en el zócalo del hook: riesgo bajo, se puede cambiar si Meta rechaza.
 - ✔ Texto sin errores, un solo idioma, sin caras ni manos deformes, stock con licencia (Pexels), precio confirmado.
 - ⚠️ **Noticieros (A1_H2_E02, A2_H1_E02):** el badge «EN VIVO» simula una transmisión que no existe. Riesgo medio de rechazo por prácticas engañosas. Se arregla sacándolo de `overlay.html` y re-renderizando (`render-overlays.sh` + `montar.sh` con prefijo `N_`, ver el README del lote).
 - ℹ️ «Antes $25.000» tachado: vale porque fue el precio real (confirmado el 2026-10-24).
