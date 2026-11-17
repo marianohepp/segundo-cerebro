@@ -22,3 +22,5 @@
 | 2026-11-01 | Fuxion | Reel orgánico (IG) | B4 Probé de todo (hook v2) | 7,0 | — | ⏳ | — | [[2026-11-01-fuxion-12-creativos-test-alcance]] |
 | 2026-11-01 | Fuxion | Reel orgánico (IG) | B5 Voy cada 3 días | 6,6 | — | ⏳ | — | [[2026-11-01-fuxion-12-creativos-test-alcance]] |
 | 2026-11-01 | Fuxion | Reel orgánico (IG) | B6 El agua que no alcanza | 7,4 | — | ⏳ | — | [[2026-11-01-fuxion-12-creativos-test-alcance]] |
+| 2026-11-01 | Eco Alacena | Oferta | La Biblia de la Limpieza Natural ($14.999 + 2 bonos) | 5,9 | — | ⏳ | — | [[2026-11-01-eco-alacena-oferta-y-competencia]] |
+| 2026-11-01 | Eco Alacena | Landing | Landing Impultienda (fricción sin verificar) | 5,5 | — | ⏳ | — | [[2026-11-01-eco-alacena-oferta-y-competencia]] |
