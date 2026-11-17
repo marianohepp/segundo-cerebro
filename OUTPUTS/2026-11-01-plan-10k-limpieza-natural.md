@@ -17,17 +17,50 @@ Sin esto, los números de abajo son supuestos. Están marcados con **[S]**.
 
 | # | Dato | Supuesto que usé | Por qué importa |
 |---|---|---|---|
-| 1 | ¿Los USD 10.000 son **facturación** o **ganancia**? | Facturación | Si es ganancia, hace falta ~USD 50.000 de facturación: no entra en noviembre. |
+| 1 | ¿Los USD 10.000 son **facturación** o **ganancia**? | ✅ **Ganancia** (fuente: yo, sesión 2026-11-17) | Si es ganancia, hace falta ~USD 50.000 de facturación: no entra en noviembre. |
 | 2 | Tipo de cambio para medir la meta | **[S] USD 1 = ARS 1.550** (último dato público que encontré: blue $1.570 a fines de julio; actualizalo) | Cambia todo el cálculo. |
 | 3 | Comisión real de Impultienda + Mercado Pago (neto acreditado ÷ $14.999) | **[S] 12 %** (del plan-test) | Define el CPA de equilibrio. |
-| 4 | ¿Cuánta plata podés poner en pauta en noviembre y con qué techo diario? | — | El escenario techo pide ~ARS 10,6 M (~USD 6.800) adelantados: Meta cobra antes de que Mercado Pago acredite. |
+| 4 | ¿Cuánta plata podés poner en pauta en noviembre y con qué techo diario? | ✅ **USD 200 por mes** (fuente: yo, sesión 2026-11-17) | El escenario techo pide ~ARS 10,6 M (~USD 6.800) adelantados: Meta cobra antes de que Mercado Pago acredite. |
 | 5 | ¿Impultienda permite **dos productos/precios** en la misma landing, *order bump* o upsell? | Dos productos sí | La suba de ticket depende de esto. |
 | 6 | ¿La factura de Meta trae IVA? | — | Baja el CPA máximo de $13.199 a ≈ $10.908 (ver plan-test). |
 | 7 | ¿El píxel registra la compra (evento Purchase) en Impultienda? | — | Sin eso, Meta optimiza a ciegas. |
 
+### ⚠️ Recálculo 2026-11-17 con los datos de Mariano (reemplaza la cuenta de la sección 1)
+
+**Datos:** meta = **USD 10.000 de ganancia** por mes · pauta = **USD 200 por mes** (≈ ARS 310.000 **[S]**). Siguen como supuestos: USD 1 = ARS 1.550, comisión 12 % (Sangregorio dice ~8 %).
+
+**Lo que deja cada venta** a $14.999 (≈ USD 9,68): neto ≈ USD 8,52 − lo que costó conseguirla (CPA).
+
+| CPA | Ganancia por venta | Ventas para USD 10.000 de ganancia | Pauta necesaria por mes |
+|---|---|---|---|
+| $13.200 (el equilibrio del plan) | ≈ USD 0 | imposible | — |
+| $8.250 (55 % del precio) | ≈ USD 3,20 | ~3.100 | ~USD 16.500 |
+| **$3.750 (ganador, 25 % del precio)** | **≈ USD 6,10** | **~1.640** | **~USD 4.000** |
+| $3.750 con ticket $20.000 (bumps) | ≈ USD 8,90 | ~1.120 | ~USD 2.700 |
+
+**Conclusiones:**
+1. **USD 10.000 de ganancia solo existe con un anuncio ganador.** Con un CPA "normal" el negocio empata o pierde, por más pauta que haya.
+2. **Con USD 200 este mes, el techo realista es ~USD 300–500 de ganancia** (si aparece un ganador temprano). Lo más probable es que noviembre cierre cerca de cero y deje el dato más valioso: qué anuncio gana.
+3. **USD 200 alcanzan justo para testear el lote 1:** la regla del plan-test es juzgar cada anuncio cuando gastó ~1 CPA máximo ($13.199), y ARS 310.000 ÷ $13.199 ≈ **23 anuncios**. El lote 1 tiene 20. Se prenden primero los mejor votados por el jurado de `/auditor`.
+4. **Camino a los USD 10.000: bola de nieve.** Toda ganancia vuelve a la pauta hasta llegar a ~USD 3.000–4.000 de pauta mensual. Suponiendo un ganador con CPA que sube a ~$5.000 al escalar:
+
+| Mes | Pauta (USD 200 + lo reinvertido) | Ganancia aprox. |
+|---|---|---|
+| 1 (nov) | 200 | 0–300 (busca el ganador) |
+| 2 | ~400 | ~660 |
+| 3 | ~1.060 | ~1.760 |
+| 4 | ~2.800 | ~4.700 |
+| 5 | ~7.500 | **~10.000+** |
+
+**Horizonte honesto: 4 a 6 meses**, si aparece un ganador y aguanta la escala. Subir el ticket (bumps, versión Emprendedora) y abrir mercados lo acorta. Si en 2 tandas no aparece ninguno, se cambia la oferta, no se pone más plata.
+
+**Qué cambia en el plan:** se elimina la escala de noviembre (S3–S4). Noviembre = testear el lote 1 con USD 200 + lote 2 en orgánico (gratis) como laboratorio, como hace Sangregorio. La pauta grande llega sola, con la ganancia.
+
 ---
 
 ## 1. Metas escalonadas (cuenta hacia atrás)
+
+> _Escenario original (facturación, sin límite de pauta). Queda como referencia; lo que vale es el recálculo de arriba._
 
 ### La cuenta
 
